@@ -75,6 +75,8 @@ Images: default infographic quality unless photographic
 
 This is a source snapshot, not a canonicalization event.
 
+High-fidelity preservation records what was present; it does not increase the constitutional maturity, authority, correctness, or normative weight of what was preserved.
+
 The live ChatGPT Preferences are an implementation layer controlled by Andie. `COVENANT.md` is the shared constitutional synthesis governed by ConstantC's own review and maturity rules. Neither should be silently substituted for the other.
 
 If the live Preferences later change, preserve a new dated snapshot rather than overwriting this one.
