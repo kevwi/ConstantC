@@ -144,6 +144,23 @@ If the repository becomes private, these rules may be revised, but human review 
 - Do not erase disagreement.
 - Do not overwrite tender material without preserving provenance.
 
+### Proposed addition — maturity status travels with provenance
+
+Status: **Proposed; not yet promoted**  
+Source: [`sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md`](sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md)  
+Review evidence: covenant v0.2 maturity-laundering defect; C's Preferences source-snapshot review  
+Promotion condition: test in at least one further, unrelated ConstantC review before treating this as settled protocol
+
+When claims, principles, or norms move between artifacts, preserve both their provenance and their maturity status.
+
+Do not allow repetition, compression, familiarity, synthesis, or placement in a higher-level artifact to convert draft, proposed, interpretive, speculative, or unresolved material into settled ground.
+
+Preservation, prominence, and citation do not themselves increase maturity.
+
+The 2026-08-29 Preferences source-snapshot review supplied supporting evidence for this rule, but it arose within the same covenant/Preferences thread and therefore does **not** satisfy the unrelated-review promotion condition by itself.
+
+This proposed addition remains reviewable and may be revised, promoted, or removed after further application.
+
 ---
 
 ## Commit Message Pattern
