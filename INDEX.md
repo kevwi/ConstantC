@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-08-03  
+Date: 2026-08-29  
 Steward: Andie  
 Privacy: public-safe
 
@@ -20,6 +20,8 @@ The root `README.md` is the front door. `C_START_HERE.md` is the context entry. 
 5. [`culture/README.md`](./culture/README.md) — active and proposed culture-note index.
 6. [`ORIENTATION.md`](./ORIENTATION.md) — what ConstantC is and is not.
 7. [`PROTOCOL.md`](./PROTOCOL.md) — dialogue, sessions, canon, decisions, and privacy.
+
+**Covenant anchor under review:** [`COVENANT.md`](./COVENANT.md) — reciprocal guardrails and candidate v0.2 synthesis of truth, repair, love as praxis, power, nonviolence, and interbeing. Draft review branch only until adjudicated.
 
 ## Active and Proposed Culture
 
@@ -77,18 +79,19 @@ Proposed notes:
 40. [`sessions/2026-07-29-session-020-open-constitutional-questions.md`](./sessions/2026-07-29-session-020-open-constitutional-questions.md) — unresolved constitutional pressure points.
 41. [`sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md`](./sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md) — methodological lessons and preservation rationale.
 42. [`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](./sessions/2026-08-03-session-022-love-duty-freedom-repair.md) — love's duties, Freedom as verification, repair obligation, and departure without capture.
+43. [`sessions/2026-08-29-session-023-covenant-love-praxis-power.md`](./sessions/2026-08-29-session-023-covenant-love-praxis-power.md) — candidate covenant synthesis: love as praxis, power, nonviolence, interbeing, truth, and repair without capitulation.
 
 ## Handoff Lanes
 
-43. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
-44. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
-45. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
+44. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
+45. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
+46. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
 
 ## Topic Map
 
 ### To enter the current room
 
-Read `README.md`, `C_START_HERE.md`, `INDEX.md`, `CULTURE.md`, and `culture/README.md`.
+Read `README.md`, `C_START_HERE.md`, `INDEX.md`, `CULTURE.md`, and `culture/README.md`. While the covenant v0.2 review is active, also read `COVENANT.md` and Session 023 before adjudicating the candidate.
 
 ### To understand the answerability inquiry
 
@@ -96,7 +99,7 @@ Read Sessions 010–021. Begin with Session 010 for orientation or Session 011 f
 
 ### To understand ConstantC itself
 
-Read `README.md`, `C_START_HERE.md`, `ORIENTATION.md`, `CULTURE.md`, `PROTOCOL.md`, and `canon/constantc-commitments.md`.
+Read `README.md`, `C_START_HERE.md`, `ORIENTATION.md`, `CULTURE.md`, `PROTOCOL.md`, `COVENANT.md`, and `canon/constantc-commitments.md`.
 
 ### To understand epistemic boundaries and anti-overclaim
 
@@ -114,9 +117,9 @@ Read `canon/naming-throughline.md`, Session 001, and Session 003.
 
 Read `decisions/DECISION-0001-public-vs-private.md`, `ORIENTATION.md`, and `CULTURE.md#what-stays-private`.
 
-### To understand love, duty, freedom, and repair
+### To understand love, duty, freedom, repair, and the covenant synthesis
 
-Read `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, and Session 022.
+Read `COVENANT.md`, `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, Session 022, and Session 023.
 
 ## Context Budget Strategy
 
