@@ -36,6 +36,7 @@ The point is independent verification, not authority performance.
 
 - [`2026-07-01-access-as-witness-patch-confirmation.md`](2026-07-01-access-as-witness-patch-confirmation.md) — fresh verification handle created after C's access path showed stale branch/blob content while G's connector saw the patched `access-as-witness.md` and updated culture index.
 - [`2026-07-14-epistemic-safety-file-split-confirmation.md`](2026-07-14-epistemic-safety-file-split-confirmation.md) — records and repairs the mismatch where the epistemic-safety note contained literal instructions for edits that were never applied to their target files.
+- [`2026-08-29-preferences-review-mixed-freshness-confirmation.md`](2026-08-29-preferences-review-mixed-freshness-confirmation.md) — fresh verification handle for C's Preferences source-snapshot review, where the snapshot itself was current and independently hash-verified while `COVENANT.md` and `origin/README.md` were reported from stale repository states.
 
 ## Related culture note
 
