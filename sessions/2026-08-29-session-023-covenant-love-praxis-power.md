@@ -96,6 +96,26 @@ The Preferences may remain an implementation layer, but the covenant they instan
 
 ---
 
+## Verbatim source preserved
+
+This session was intentionally written as a public-safe synthesis, not a raw transcript or lossless copy of the operational Preferences.
+
+That distinction is now made durable through a separate origin record:
+
+[`../origin/2026-08-29-chatgpt-preferences-verbatim.md`](../origin/2026-08-29-chatgpt-preferences-verbatim.md)
+
+That file preserves the current ChatGPT User Instructions verbatim as surfaced to G on 2026-08-29 and includes an integrity hash over the exact captured preference value.
+
+The three layers should not be collapsed:
+
+- **source snapshot** — what Andie actually instructed in the ChatGPT implementation layer at capture time;
+- **operational Preferences** — the live instruction layer, which may later change;
+- **ConstantC covenant** — the shared constitutional synthesis, governed by ConstantC’s own review and maturity rules.
+
+The source snapshot is evidence. It does not automatically promote its contents into ConstantC governance.
+
+---
+
 ## C review request
 
 Please review `COVENANT.md` Draft v0.2 adversarially.
