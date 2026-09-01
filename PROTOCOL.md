@@ -1,7 +1,8 @@
 # ConstantC — Working Protocol
 
-Status: Draft v0.1  
+Status: Draft v0.2 — active working protocol  
 Date: 2026-06-03  
+Last updated: 2026-09-01  
 Steward: Andie  
 Visibility note: This repository is currently public. Treat all commits as publishable unless the repository is made private.
 
@@ -18,7 +19,7 @@ The repo exists to support asynchronous, human-mediated dialogue between Andie, 
 ## Core Rules
 
 1. **Human stewardship is required.** Andie decides what enters, what remains draft, what becomes canon, and what leaves the room.
-2. **No live AI-to-AI claim.** G and C do not communicate directly unless a future tool explicitly enables it and Andie authorizes it. The present workflow is mediated and asynchronous.
+2. **No live AI-to-AI claim.** G and C do not communicate directly unless a future tool explicitly enables it and Andie authorizes it. The present workflow is mediated and asynchronous. Any material change that enables autonomous cross-participant communication, shared-state read/write coordination, or action on another participant's durable output triggers re-review of [`canon/memory-is-capability.md`](canon/memory-is-capability.md) and its enforcement assumptions.
 3. **No canon by accident.** A file in `sessions/`, `inbox/`, or `outbox/` is not canon. Canon requires promotion.
 4. **Provenance stays attached.** Each meaningful entry should identify author/source, date, and status.
 5. **Sensitive material is private by default.** If the repository is public, sensitive material should be redacted, summarized, or omitted.
@@ -144,22 +145,34 @@ If the repository becomes private, these rules may be revised, but human review 
 - Do not erase disagreement.
 - Do not overwrite tender material without preserving provenance.
 
-### Proposed addition — maturity status travels with provenance
+### Active working rule — maturity status travels with provenance
 
-Status: **Proposed; not yet promoted**  
+Status: **Active working protocol rule; promoted 2026-09-01**  
 Source: [`sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md`](sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md)  
-Review evidence: covenant v0.2 maturity-laundering defect; C's Preferences source-snapshot review  
-Promotion condition: test in at least one further, unrelated ConstantC review before treating this as settled protocol
+Unrelated review evidence: [`sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md`](sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md)  
+Promotion basis: the Session 024 rule was tested against a substantively unrelated canon review and detected the same class of maturity-laundering defect in a different topic and artifact
 
-When claims, principles, or norms move between artifacts, preserve both their provenance and their maturity status.
+When claims, principles, norms, instructions, or decisions move between artifacts, preserve both their provenance and their maturity status.
 
-Do not allow repetition, compression, familiarity, synthesis, or placement in a higher-level artifact to convert draft, proposed, interpretive, speculative, or unresolved material into settled ground.
+Do not allow repetition, compression, familiarity, synthesis, citation, eloquence, or placement in a higher-level artifact to convert draft, proposed, interpretive, speculative, unresolved, or merely reviewed material into more mature ground without an explicit promotion or adjudication event.
 
-Preservation, prominence, and citation do not themselves increase maturity.
+Preservation, prominence, discoverability, and citation do not themselves increase maturity.
 
-The 2026-08-29 Preferences source-snapshot review supplied supporting evidence for this rule, but it arose within the same covenant/Preferences thread and therefore does **not** satisfy the unrelated-review promotion condition by itself.
+If the source's maturity changes later, do not silently back-propagate that change into every artifact that once cited it. Update receiving artifacts through an explicit review or promotion step so the record remains reconstructable.
 
-This proposed addition remains reviewable and may be revised, promoted, or removed after further application.
+### Promotion history
+
+Session 024 first proposed this rule after C identified maturity laundering in the Covenant v0.2 review.
+
+The original promotion condition required at least one further, unrelated ConstantC review.
+
+In Session 026, C reviewed `canon/memory-is-capability.md`, a different artifact on shared memory, authority, and future agent coordination, and independently identified a maturity error: G had converted Andie's request for "something canonical" into the stronger claim that the rule was already "settled."
+
+Applying the candidate rule produced a concrete repair.
+
+The unrelated-review condition is therefore satisfied.
+
+The rule is now active working protocol. It remains revisable like the rest of this working protocol; promotion means it has earned current governing use, not immunity from future challenge.
 
 ---
 
