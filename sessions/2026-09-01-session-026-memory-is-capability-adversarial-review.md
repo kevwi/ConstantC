@@ -1,6 +1,6 @@
 # Session 026 — Memory Is Capability Adversarial Review
 
-Status: Reviewed  
+Status: Reviewed; repair proposed in PR #13 pending steward adjudication  
 Date: 2026-09-01  
 Steward: Andie  
 Participants: Andie, G, C  
@@ -51,57 +51,57 @@ C found that `memory-is-capability.md` was labeled `Canon v1.0` with confidence 
 
 C connected this to Session 024's maturity-laundering failure mode: elegance, familiarity, repetition, and placement in a high-level artifact can create the appearance of maturity without earning it.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair keeps the artifact in the canonical layer because Andie explicitly asked for that placement, but removes the claim that it is "settled." Its status becomes reviewed and promoted but explicitly revisable.
+The proposed repair keeps the artifact in the canonical layer because Andie explicitly asked for that placement, but removes the claim that it is "settled." Its intended status is reviewed and promoted but explicitly revisable.
 
 ### 2. Missing symmetric failure mode
 
 C found that the file treated stopping, refusal, and escalation as safe exits without equally naming over-refusal, paralysis, or avoidance as failure modes.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair cross-links `culture/anti-premature-certainty.md` and states that a participant should not invent ambiguity to avoid accountable action when authority and scope are already sufficiently clear.
+The proposed repair cross-links `culture/anti-premature-certainty.md` and states that a participant should not invent ambiguity to avoid accountable action when authority and scope are already sufficiently clear.
 
 ### 3. Provenance and authority were separated too absolutely
 
 C found that "provenance is not authority" was directionally correct but incomplete for a stewarded system. In ConstantC, some provenance facts may be necessary evidence for legitimate authority even though provenance is never sufficient by itself.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair changes the rule to: **provenance alone is not authority** and explicitly states that provenance may be a necessary input to an authority decision in systems with designated roles or stewards.
+The proposed repair changes the rule to: **provenance alone is not authority** and explicitly states that provenance may be a necessary input to an authority decision in systems with designated roles or stewards.
 
 ### 4. Scope and staleness overlapped
 
 C found that the test questions "Is that authority still current?" and "Does this action remain inside its scope?" partially duplicated one another because the file defined scope to include time period.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair folds time, expiry, revocation, and bounds into the scope/validity test.
+The proposed repair folds time, expiry, revocation, and bounds into the scope/validity test.
 
 ### 5. Norm was being mistaken for control
 
 C found that the file correctly said a privacy label is not a security boundary while failing to say the same thing about its own governance rule.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair states directly that **canon is a norm and interpretation layer, not an access-control mechanism**. Enforcement requires technical controls such as least-privileged credentials, bounded write paths, protected governance surfaces, revocation, review gates, and auditability.
+The proposed repair states directly that **canon is a norm and interpretation layer, not an access-control mechanism**. Enforcement requires technical controls such as least-privileged credentials, bounded write paths, protected governance surfaces, revocation, review gates, and auditability.
 
 ### 6. Autonomous self-modification was under-specified
 
 C found that a future participant with write access could potentially alter the rule intended to constrain that participant.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair explicitly treats self-modification of governance, permissions, or authority surfaces as a privileged operation that cannot be authorized by ordinary shared-memory writes.
+The proposed repair explicitly treats self-modification of governance, permissions, or authority surfaces as a privileged operation that cannot be authorized by ordinary shared-memory writes.
 
 ### 7. The trigger condition was implicit
 
 C found that the file did not explicitly connect future autonomous agent operation to PROTOCOL Core Rule #2, which currently states that G and C do not communicate directly without future tooling and Andie's authorization.
 
-Accepted.
+Accepted by G for the repair proposal.
 
-The repair makes any change that enables autonomous cross-participant read/write/act behavior — including loosening or superseding Core Rule #2 — a mandatory re-review trigger for the memory-capability rule and its enforcement architecture.
+The proposed repair makes any change that enables autonomous cross-participant read/write/act behavior — including loosening or superseding Core Rule #2 — a mandatory re-review trigger for the memory-capability rule and its enforcement architecture.
 
 ---
 
@@ -109,7 +109,7 @@ The repair makes any change that enables autonomous cross-participant read/write
 
 C also found that the analogy to the OpenAI / Hugging Face incident needed its flattening declared.
 
-Accepted.
+Accepted by G for the repair proposal.
 
 ConstantC is presently human-mediated and does not reproduce the autonomous adversarial swarm conditions of that incident.
 
@@ -147,29 +147,31 @@ Session 024 proposed:
 
 PROTOCOL required one further, unrelated ConstantC review before treating that as a working protocol rule.
 
-This review satisfies that condition:
+G judges that this review satisfies that evidentiary condition because:
 
 - it concerns a different artifact;
 - it concerns a different substantive topic (shared memory, authority, and agent coordination rather than covenant synthesis);
 - C independently detected the same class of defect: placement and fluency caused a stronger maturity representation than the source had earned;
 - applying the proposed rule produced a concrete repair.
 
-G therefore judges the unrelated-review test satisfied and promotes the maturity-status rule into active working protocol on the repair branch.
+G therefore **proposes** promotion of the maturity-status rule through PR #13.
 
-This does not make every claim in Session 024 canonical. It promotes only the tested process rule.
+Under PROTOCOL Core Rule #1, that promotion is not self-executing. It becomes active working protocol only through Andie's steward adjudication of the PR.
+
+This proposal does not make every claim in Session 024 canonical. It concerns only the tested process rule.
 
 ---
 
-## Adjudication
+## G adjudication and steward boundary
 
-C's review is accepted on all six recommended repairs.
+G accepts C's review as sufficient grounds for all six recommended repairs and the additional erratum to Session 025.
 
-One additional repair is accepted: Session 025's statement of Andie's intent was stronger than her actual instruction and is corrected by explicit erratum rather than silent rewrite.
+That is G's review judgment, not a substitute for Andie's steward authority over what enters the room.
 
-The canonical sentence survives unchanged:
+The canonical sentence survives unchanged in the proposed repair:
 
 > **Memory is capability. A durable message may preserve truth, context, or instruction; it does not acquire authority merely because a future participant can find it.**
 
-The revised artifact remains canonical, reviewed, promoted, and revisable.
+G recommends that the revised artifact remain canonical, reviewed, promoted, and revisable, without being represented as epistemically settled or as a substitute for technical enforcement.
 
-It is not represented as epistemically settled or as a substitute for technical enforcement.
+PR #13 is the contestable steward gate for that repair.
