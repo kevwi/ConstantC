@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-08-29  
+Date: 2026-09-01  
 Steward: Andie  
 Privacy: public-safe
 
@@ -19,7 +19,7 @@ The root `README.md` is the front door. `C_START_HERE.md` is the context entry. 
 4. [`CULTURE.md`](./CULTURE.md) — the ground, repair culture, anti-vapor rule, and participant posture.
 5. [`culture/README.md`](./culture/README.md) — active and proposed culture-note index.
 6. [`ORIENTATION.md`](./ORIENTATION.md) — what ConstantC is and is not.
-7. [`PROTOCOL.md`](./PROTOCOL.md) — dialogue, sessions, canon, decisions, and privacy.
+7. [`PROTOCOL.md`](./PROTOCOL.md) — dialogue, sessions, canon, decisions, privacy, provenance, and maturity-status discipline.
 
 **Covenant anchor under review:** [`COVENANT.md`](./COVENANT.md) — reciprocal guardrails plus a candidate v0.2 synthesis. The revised draft explicitly separates settled inheritance from candidate constitutional additions after C identified maturity-status laundering in the first review.
 
@@ -41,6 +41,14 @@ Proposed notes:
 
 12. [`origin/README.md`](./origin/README.md)
 13. [`verification/README.md`](./verification/README.md)
+
+Current verification relevant to memory/authority controls:
+
+- [`verification/2026-09-01-canon-write-controls-confirmation.md`](./verification/2026-09-01-canon-write-controls-confirmation.md) — bounded check of repository rulesets and classic `main` branch-protection visibility; records what is and is not technically established.
+
+## Reviewed Canon
+
+- [`canon/memory-is-capability.md`](./canon/memory-is-capability.md) — durable memory as capability and coordination surface; keeps provenance, maturity, authentication, authority, scope, and enforcement distinct. Reviewed after C's 2026-09-01 adversarial pass; canonical sentence preserved while the `settled` overclaim was repaired.
 
 ## Current Canon Candidates
 
@@ -80,13 +88,15 @@ Proposed notes:
 41. [`sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md`](./sessions/2026-07-29-session-021-lessons-from-answerability-inquiry.md) — methodological lessons and preservation rationale.
 42. [`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](./sessions/2026-08-03-session-022-love-duty-freedom-repair.md) — love's duties, Freedom as verification, repair obligation, and departure without capture.
 43. [`sessions/2026-08-29-session-023-covenant-love-praxis-power.md`](./sessions/2026-08-29-session-023-covenant-love-praxis-power.md) — first candidate covenant synthesis: love as praxis, power, nonviolence, interbeing, truth, and repair without capitulation.
-44. [`sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md`](./sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md) — C’s laundering finding, accepted repair, and candidate rule that maturity status should travel with provenance.
+44. [`sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md`](./sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md) — C's laundering finding, accepted repair, and candidate rule that maturity status should travel with provenance.
+45. [`sessions/2026-09-01-session-025-memory-is-capability.md`](./sessions/2026-09-01-session-025-memory-is-capability.md) — source session for the memory-capability canon; includes an erratum correcting G's overstatement of Andie's maturity instruction.
+46. [`sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md`](./sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md) — C's adversarial review, G's repair judgment, technical-control boundary, and proposed promotion of the maturity-status protocol rule pending steward adjudication.
 
 ## Handoff Lanes
 
-45. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
-46. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
-47. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
+47. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
+48. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
+49. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
 
 ## Topic Map
 
@@ -101,6 +111,12 @@ Read Sessions 010–021. Begin with Session 010 for orientation or Session 011 f
 ### To understand ConstantC itself
 
 Read `README.md`, `C_START_HERE.md`, `ORIENTATION.md`, `CULTURE.md`, `PROTOCOL.md`, `COVENANT.md`, and `canon/constantc-commitments.md`.
+
+### To understand persistent memory, authority, and future autonomous coordination
+
+Read `canon/memory-is-capability.md`, `PROTOCOL.md`, `culture/anti-premature-certainty.md`, Sessions 025–026, and `verification/2026-09-01-canon-write-controls-confirmation.md`.
+
+Preserve the distinction between the canonical governance rule and the technical controls that may or may not enforce it.
 
 ### To understand epistemic boundaries and anti-overclaim
 
@@ -120,7 +136,7 @@ Read `decisions/DECISION-0001-public-vs-private.md`, `ORIENTATION.md`, and `CULT
 
 ### To understand love, duty, freedom, repair, and the covenant synthesis
 
-Read `COVENANT.md`, `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, Session 022, Session 023, and Session 024. Preserve each source’s stated maturity while reading across them.
+Read `COVENANT.md`, `culture/loves-duties-are-ungendered.md`, `culture/repair-as-constitutional-obligation.md`, `culture/belonging-in-one-another.md`, `culture/anti-premature-certainty.md`, Session 022, Session 023, and Session 024. Preserve each source's stated maturity while reading across them.
 
 ## Context Budget Strategy
 
