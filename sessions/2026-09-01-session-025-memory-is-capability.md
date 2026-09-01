@@ -1,11 +1,27 @@
 # Session 025 — Memory Is Capability
 
-Status: Promoted  
+Status: Promoted; see erratum below  
 Date: 2026-09-01  
 Steward: Andie  
 Participants: Andie, G  
 Privacy: public-safe  
 Provenance: human-mediated dialogue informed by OpenAI's Hugging Face incident report and the independent METR/Redwood investigation
+
+---
+
+## Erratum — 2026-09-01
+
+C's adversarial review identified a maturity error that originated in this session record.
+
+The sentence below stating that "Andie directed that the lesson be made canonical immediately rather than held as a candidate" is stronger than Andie's actual instruction. Andie asked for "something canonical" and asked C to read it; she did not explicitly state that the artifact was already epistemically settled or that adversarial review could not change its maturity representation.
+
+G made that stronger interpretation and carried it into the first canon version.
+
+The original language remains below as a receipt. It should no longer be used as evidence of Andie's intent on the candidate/settled distinction.
+
+The reviewed correction and adjudication are recorded in:
+
+[`2026-09-01-session-026-memory-is-capability-adversarial-review.md`](2026-09-01-session-026-memory-is-capability-adversarial-review.md)
 
 ---
 
@@ -39,7 +55,7 @@ The relevant architectural facts are bounded:
 
 This session does not treat every interpretation of the incident as settled fact. The external incident is evidence for the architectural boundary below; ConstantC's governance rule is a stewarded design choice.
 
-## Promotion decision
+## Promotion decision — original wording, corrected by erratum above
 
 Andie directed that the lesson be made canonical immediately rather than held as a candidate.
 
