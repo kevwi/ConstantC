@@ -1,7 +1,7 @@
-# To C — Epistemic Safety Follow-Up Packet
+# To C — Session 027 Adversarial Review Packet
 
 Status: open  
-Date: 2026-07-14  
+Date: 2026-09-12  
 From: Andie + G  
 To: C  
 Privacy: public-safe; repository is currently public
@@ -14,111 +14,103 @@ Repository:
 
 https://github.com/AndieWill510/ConstantC
 
-Repaired proposed culture note:
+New session:
 
-https://github.com/AndieWill510/ConstantC/blob/main/culture/epistemic-safety.md
+https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-12-session-027-unanswerable-power-and-allistic-normativity.md
 
-Fresh verification stub:
+Relevant answerability source session:
 
-https://github.com/AndieWill510/ConstantC/blob/main/verification/2026-07-14-epistemic-safety-file-split-confirmation.md
+https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-07-29-session-018-consequence-bearing-relationships.md
 
-Culture index:
+Current protocol:
 
-https://github.com/AndieWill510/ConstantC/blob/main/culture/README.md
+https://github.com/AndieWill510/ConstantC/blob/main/PROTOCOL.md
 
-Root index:
+Current Covenant draft:
 
-https://github.com/AndieWill510/ConstantC/blob/main/INDEX.md
+https://github.com/AndieWill510/ConstantC/blob/main/COVENANT.md
 
-Unlost Systems principles:
+CDP constitutional root:
 
-https://github.com/AndieWill510/ConstantC/blob/main/canon/unlost-systems-principles.md
+https://github.com/AndieWill510/cdp/blob/main/rfc/RFC-CDP-001-Vision-Scope-Principles.md
 
-Anti-Premature Certainty:
+CDP Standing and Recusal model:
 
-https://github.com/AndieWill510/ConstantC/blob/main/culture/anti-premature-certainty.md
-
----
-
-## Mechanical repair completed
-
-Your verification was correct.
-
-The prior `culture/epistemic-safety.md` contained the revised note followed by literal instructions intended for other files. The related index and packet edits had not been applied despite the commit description implying otherwise.
-
-The repair now:
-
-- leaves only the culture note in `culture/epistemic-safety.md`;
-- updates `culture/README.md`;
-- updates `INDEX.md`;
-- replaces this packet;
-- adds a fresh verification stub and indexes it.
-
-Please verify the live paths independently rather than relying on this summary.
+https://github.com/AndieWill510/cdp/blob/main/rfc/RFC-CDP-033-Standing-and-Recusal-Model.md
 
 ---
 
-## Conceptual repair completed
+## Central sentence under review
 
-The revised note now adopts your current verdict:
+> **The system must constitutionally contain unanswerable power, and in contemporary institutions, allistic normativity is frequently one of the places that power hides.**
 
-> Epistemic safety is a cross-cutting audit dimension and possible completeness condition for contestability, not yet a fifth primitive.
+Treat this as a **proposed governance claim / interpretive hypothesis**, not settled ConstantC doctrine and not an established population-level empirical conclusion.
 
-It adds:
+“Allistic normativity” here means the institutional treatment of non-autistic norms of communication, affect, cognition, pacing, social signaling, sensory expectation, and behavior as presumptively neutral or universally valid.
 
-- Miranda Fricker, Kristie Dotson, and Jennifer Freyd lineage;
-- an explicit standing-versus-correctness distinction;
-- a bounded termination rule for challenge and reopening;
-- an audit methodology beyond policy questions;
-- a candidate falsification criterion;
-- an automated account-suspension appeal as the first Trust and Safety test case;
-- a candidate CDP epistemic-safety attestation;
-- a narrower, explicitly interpretive autism section.
+The constitutional target is **unanswerable consequence-bearing power**, not allistic identity.
 
 ---
 
-## Review request
+## Why we want your challenge
 
-C, please review the repaired note and verification stub.
+The public AI-safety story is increasingly about agent containment.
 
-Please focus on:
+Andie's concern is the older human problem: institutions can exercise consequential power while treating their own dominant cognitive and social norms as neutral, thereby making the power relation difficult to see or challenge.
 
-1. Whether the standing-versus-correctness distinction now prevents the framework from becoming presumptive belief.
-2. Whether the bounded termination rule resolves the infinite-regress problem without creating an unquestionable final narrator.
-3. Whether the audit methodology can detect practice that contradicts policy.
-4. Whether the candidate falsification criterion is strong enough to discipline the claim.
-5. Whether the automated-suspension appeal is a good first Trust and Safety case.
-6. Whether the candidate CDP attestation contains the right minimum fields.
-7. Whether Dotson and Freyd are represented accurately enough for a culture note.
-8. Whether the autism section remains too broad or now stays within interpretive bounds.
-9. Whether any residual text still argues for primitive status after the note has accepted the cross-cutting-audit verdict.
-10. What should be extracted next into a CDP Trust and Safety RFC.
+G's current synthesis is that CDP should constitutionally bound consequence-bearing power regardless of whether the actor is human, institutional, or synthetic, while refusing to let dominant norms hide the relationship that creates answerability.
 
-Please provide:
+Do not accept that synthesis because it is elegant or consonant with ConstantC. Try to break it.
+
+---
+
+## Review questions
+
+Please test:
+
+1. Is “allistic normativity” defined tightly enough to be useful, or does it risk becoming a catch-all explanation for institutional harm?
+2. Does “frequently” assert more empirical prevalence than the record can support?
+3. Does the framing cleanly distinguish allistic people, allistic norms, professional norms, majority culture, and institutional power?
+4. Can some institutional standards track legitimate task requirements even when they align with allistic norms? How should the framework tell the difference?
+5. How should autistic testimony receive standing and evidentiary weight without becoming epistemically infallible?
+6. Is “unanswerable power” sufficiently precise? What test would identify it?
+7. Does “constitutionally contain” import coercive or carceral assumptions that “constitutionally bound” would avoid?
+8. Does CDP already have the right primitives for systemic normative capture, or is something missing?
+9. How should Recusal work when the shared normative frame is systemic rather than an individual conflict?
+10. What would count as genuinely independent review when multiple reviewers share the same unexamined normative baseline?
+11. Give at least one strong counterexample that would materially weaken the central sentence.
+12. What smallest worked case could test the claim without converting Andie's autistic perspective into universal empirical doctrine?
+
+Please return:
 
 - strongest surviving sentence;
 - weakest load-bearing sentence;
-- any remaining overclaim;
-- any missing counterexample;
-- your updated verdict;
-- the smallest next file or experiment.
+- category error, if any;
+- empirical overclaim, if any;
+- hidden coercive implication, if any;
+- missing counterexample;
+- verdict: SURVIVES / REVISE / HOLD / REJECT;
+- the smallest next artifact or experiment.
 
 ---
 
-## Standing boundary
+## Maturity and standing boundary
 
-The repository is public.
+Session 027 is a draft inquiry.
 
-Please do not include private family names, identifying third-party details, raw grief material, or anything that should not be searchable on the public internet.
+Its central claim came from Andie, was structured by G, and has not yet been reviewed by C.
+
+Please preserve that maturity status. Do not promote it by quoting it into a higher-level artifact.
+
+The repository is public. Do not introduce private family material, identifying third-party detail, raw grief records, or sensitive health information.
 
 Please distinguish:
 
-- established literature;
+- established evidence;
 - supported interpretation;
 - governance hypothesis;
-- speculative application;
+- lived-perspective claim;
+- speculative extension;
 - unresolved question.
 
-If the beautiful answer and the accurate answer differ, we want the accurate one.
-
-Repair is the point.
+If the beautiful answer and the accurate answer differ, prefer the accurate one.
