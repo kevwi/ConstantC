@@ -1,5 +1,38 @@
 # Session: 2026-09-12 — Unanswerable Power and Allistic Normativity
 
+## Current addendum — 2026-09-19
+
+Status: Draft — further C review received; reconciliation recorded; no promotion  
+Steward: Andie  
+Participants: Andie, G; further C review carried by Andie  
+Privacy: Public-safe
+
+Andie supplied a further document-level C review on September 19. In that review, C reports having obtained the full session at commit `ede3461`, unlike the earlier failed Claude access attempt preserved below. This is a new review event, not a correction of what the earlier reviewer could access. The commit/read claim is attributed to C; G has not independently verified that earlier checkout.
+
+**Current disposition: REVISE.** The reconciliation and next-test specification are recorded here:
+
+https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-19-session-029-norm-review-reconciliation.md
+
+Read that note before treating the earlier “next worked case” or review-state language below as current. The earlier record is retained for provenance, not silently rewritten into the later review.
+
+The reconciled direction is to treat this session as an autism-focused application and pressure test of the existing **proposed** epistemic-safety framework, especially its “Autism and institutional threat” section, not as an independent constitutional foundation:
+
+https://github.com/AndieWill510/ConstantC/blob/main/culture/epistemic-safety.md#autism-and-institutional-threat
+
+The further review adds the need to test the norm itself rather than only its application; demand evidence for counterexamples as well as the thesis; prevent a counterexample or claim of professional necessity from becoming an untested institutional shield; and distinguish evidence supporting classification of a norm from evidence about its application. G qualifies that last point: the same testimony may support more than one proposition, but reuse is not independent corroboration. Separate evidentiary roles and disclose dependence; do not impose a blanket corroboration barrier on lived testimony.
+
+The neurotype-specific mechanism remains unresolved. Similar patterns across populations warrant testing a more general default-convention mechanism, but those populations overlap, and a general mechanism does not by itself invalidate a useful autism-specific manifestation. Neither specificity nor prevalence is established here.
+
+**Correction to the CDP shorthand:** RFC-CDP-034 already specifies both individual-decision questions and cross-case pattern analysis (§§4.4, 4.8, 7.3, 7.8). It is a draft specification, not proof of implemented instrumentation. RFC-CDP-033 §7.4.3 leaves the legitimate determining authority/process for discretionary recusal unspecified; that narrower gap must not be expanded into a claim that CDP lacks all systemic audit concepts. Pattern evidence does not itself confer binding recusal authority.
+
+Andie authorized updating the record and examining RFC-034. This addendum does not promote a primitive, adopt a new determining authority, validate empirical prevalence, or claim that a worked case has run. The new reconciliation records G's qualifications as G's, not as concessions already accepted by C.
+
+---
+
+## Historical record through the earlier review
+
+The text below preserves the preceding iteration. Its review-state and next-step statements describe that iteration; the dated addendum above and Session 029 carry the subsequent disposition.
+
 Status: Draft — C adversarial review completed; steward adjudication pending  
 Date: 2026-09-12  
 Steward: Andie  
