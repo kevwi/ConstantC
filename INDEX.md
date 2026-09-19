@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-09-01  
+Date: 2026-09-19  
 Steward: Andie  
 Privacy: public-safe
 
@@ -10,6 +10,14 @@ Privacy: public-safe
 This index makes ConstantC crawlable by humans and AI systems that cannot reliably ingest the full repository at once. Use the smallest reading set that preserves the relevant context.
 
 The root `README.md` is the front door. `C_START_HERE.md` is the context entry. This file is the navigation map.
+
+## Recent sessions and review reconciliation
+
+- [`sessions/2026-09-12-session-027-unanswerable-power-and-allistic-normativity.md`](./sessions/2026-09-12-session-027-unanswerable-power-and-allistic-normativity.md) — Draft Session 027; the September 19 addendum records a further C review separately from the earlier failed Claude access attempt and preserves the earlier iteration as history.
+- [`sessions/2026-09-18-session-028-human-under-the-pile.md`](./sessions/2026-09-18-session-028-human-under-the-pile.md) — Draft Session 028; task versus decision autonomy, verification coverage and the contested RSI framing. Its existing `inbox/to-c.md` handoff is unchanged by the Session 027 reconciliation.
+- [`sessions/2026-09-19-session-029-norm-review-reconciliation.md`](./sessions/2026-09-19-session-029-norm-review-reconciliation.md) — Draft reconciliation: Session 027 is an application of the existing proposed epistemic-safety framework, not a new primitive. Distinguishes RFC-034 pattern analysis from RFC-033 discretionary-recusal authority, and separates evidentiary roles without imposing a blanket corroboration barrier.
+
+For the Session 027 inquiry, read Session 029, the dated Session 027 addendum, and [`culture/epistemic-safety.md#autism-and-institutional-threat`](./culture/epistemic-safety.md#autism-and-institutional-threat). No claim is promoted by these links. Capability telemetry remains a separate parked question.
 
 ## Entry and Governance
 
