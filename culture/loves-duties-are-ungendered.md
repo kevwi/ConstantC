@@ -455,38 +455,38 @@ ten elements named in this canon: every off-diagonal cell is one
 
 Read it this way: **row = what is present; column = what is missing; cell = what the practice can become.**
 
-| Have ↓ / Missing → | Care | Respect | Knowledge | Responsibility | Commitment | Trust | Consent | Impact awareness | Repair | Freedom |
+| Have ↓ / Missing → | Care | Respect | Knowledge | Responsibility | Commitment | Trust | Consent | Impact Awareness | Repair | Freedom |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | **Control** | Benevolent harm | Hugs over harm | Control |
-| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Formal disregard | Civility over accountability | Politeness |
+| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | **Control** | Benevolent harm | Comfort without repair | Control |
+| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Mere manners | Guarded politeness | Decorum over agency | Formal disregard | Civility over accountability | Politeness |
 | **Knowledge** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Intrusive knowing | Misreading | Receipt hoarding | Surveillance |
-| **Responsibility** | Obligation | Paternalism | Busy harm without understanding | — | Performance | Compliance management | Coercion | Procedural innocence | Procedure without justice | Obligation as cage |
-| **Commitment** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Loyal repetition | Staying without change | Capture |
+| **Responsibility** | Obligation | Paternalism | Uninformed action | — | Performance | Compliance management | Coercion | Procedural innocence | Procedure without justice | Obligation as cage |
+| **Commitment** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Loyal repetition | Static endurance | Capture |
 | **Trust** | Exposure | Credulity | Blind trust | Unbacked confidence | Fragile faith | — | Pressure to believe | Naïveté | Forgiveness without change | Compliance |
 | **Consent** | Transaction | Paper consent | Uninformed consent | No follow-through | One-time permission | Legalism | — | Consent theater | Waiver | Signature under pressure |
-| **Impact awareness** | Weaponized accounting | Public reduction | Misattribution | Accusation without ownership | Episodic reckoning | Surveillance | Coerced disclosure | — | Harm catalog | Impact as control |
-| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture without agreement | Repair blind to harm | — | Leash reattached under belonging-threat |
-| **Freedom** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Freedom indifferent to harm | Repairlessness | — |
+| **Impact Awareness** | Weaponized accounting | Public reduction | Misattribution | Accusation without ownership | Episodic reckoning | Surveillance | Coerced disclosure | — | Harm catalog | Impact as control |
+| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture without agreement | Impact-blind repair | — | Recapturing repair |
+| **Freedom** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Indifferent freedom | Repairlessness | — |
 
 The most load-bearing distortions are:
 
 | Pair | Distortion |
 |---|---|
 | **Love without Consent** | **Control** |
-| **Care without Free** | Control |
-| **Respect without Free** | Politeness |
-| **Knowledge without Free** | Surveillance |
-| **Responsibility without Free** | Obligation as cage |
-| **Commit without Free** | Capture |
+| **Care without Freedom** | Control |
+| **Respect without Freedom** | Politeness |
+| **Knowledge without Freedom** | Surveillance |
+| **Responsibility without Freedom** | Obligation as cage |
+| **Commitment without Freedom** | Capture |
 | **Commitment without Consent** | Lock-in |
-| **Care without Impact awareness** | Benevolent harm |
-| **Intent without Impact awareness** | Self-excusing harm |
-| **Impact awareness without Repair** | Harm catalog |
-| **Impact awareness without Freedom** | Impact as control |
-| **Repair without Free** | Leash reattached under belonging-threat |
-| **Free without Repair** | Repairlessness |
-| **Consent without Free** | Signature under pressure |
-| **Know without Consent** | Intrusive knowing |
+| **Care without Impact Awareness** | Benevolent harm |
+| **Intent without Impact Awareness** | Self-excusing harm |
+| **Impact Awareness without Repair** | Harm catalog |
+| **Impact Awareness without Freedom** | Impact as control |
+| **Repair without Freedom** | Recapturing repair |
+| **Freedom without Repair** | Repairlessness |
+| **Consent without Freedom** | Signature under pressure |
+| **Knowledge without Consent** | Intrusive knowing |
 | **Responsibility without Care** | Obligation |
 | **Respect without Repair** | Civility over accountability |
 
