@@ -446,31 +446,43 @@ make external historical, empirical, or tradition-specific claims.
 
 ## Appendix: Distortion chart
 
-This chart is a diagnostic aid for testing what a practice of love becomes when one element is present but another is missing.
+> **Love without consent becomes control.**
+
+This chart is a diagnostic aid for testing what a practice of love becomes when one
+element is present but another is missing. It is a complete pairwise matrix for the
+ten elements named in this canon: every off-diagonal cell is one
+**retained-element / missing-element** permutation.
 
 Read it this way: **row = what is present; column = what is missing; cell = what the practice can become.**
 
-| Have ↓ / Missing → | Care | Respect | Know | Responsibility | Commit | Trust | Consent | Repair | Free |
-|---|---|---|---|---|---|---|---|---|---|
-| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | Control | Hugs over harm | Control |
-| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Civility over accountability | Politeness |
-| **Know** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Intrusive knowing | Receipt hoarding | Surveillance |
-| **Responsibility** | Obligation | Paternalism | Busy harm without understanding | — | Performance | Compliance management | Coercion | Procedure without justice | Obligation as cage |
-| **Commit** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Staying without change | Capture |
-| **Trust** | Exposure | Credulity | Blind trust | Unbacked confidence | Fragile faith | — | Pressure to believe | Forgiveness without change | Compliance |
-| **Consent** | Transaction | Paper consent | Uninformed consent | No follow-through | One-time permission | Legalism | — | Waiver | Signature under pressure |
-| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture without agreement | — | Leash reattached under belonging-threat |
-| **Free** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Repairlessness | — |
+| Have ↓ / Missing → | Care | Respect | Knowledge | Responsibility | Commitment | Trust | Consent | Impact awareness | Repair | Freedom |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Care** | — | Smothering | Projection | Sentiment | Episodic comfort | Anxious tending | **Control** | Benevolent harm | Hugs over harm | Control |
+| **Respect** | Polite distance | — | Shallow courtesy | Empty deference | Manners only | Guarded politeness | Decorum over agency | Formal disregard | Civility over accountability | Politeness |
+| **Knowledge** | Analysis | Objectification | — | Gossip / extraction | Curiosity tourism | Interrogation | Intrusive knowing | Misreading | Receipt hoarding | Surveillance |
+| **Responsibility** | Obligation | Paternalism | Busy harm without understanding | — | Performance | Compliance management | Coercion | Procedural innocence | Procedure without justice | Obligation as cage |
+| **Commitment** | Grim loyalty | Entitlement | Fantasy bond | Romantic promise | — | Stuckness | Lock-in | Loyal repetition | Staying without change | Capture |
+| **Trust** | Exposure | Credulity | Blind trust | Unbacked confidence | Fragile faith | — | Pressure to believe | Naïveté | Forgiveness without change | Compliance |
+| **Consent** | Transaction | Paper consent | Uninformed consent | No follow-through | One-time permission | Legalism | — | Consent theater | Waiver | Signature under pressure |
+| **Impact awareness** | Weaponized accounting | Public reduction | Misattribution | Accusation without ownership | Episodic reckoning | Surveillance | Coerced disclosure | — | Harm catalog | Impact as control |
+| **Repair** | Technical fix | Forced apology | Wrong repair | Apology theater | Temporary patch | Unverified promise | Recapture without agreement | Repair blind to harm | — | Leash reattached under belonging-threat |
+| **Freedom** | Abandonment | License | Unwitnessed wandering | Avoidance | Disposability | Isolation | Entitlement | Freedom indifferent to harm | Repairlessness | — |
 
 The most load-bearing distortions are:
 
 | Pair | Distortion |
 |---|---|
+| **Love without Consent** | **Control** |
 | **Care without Free** | Control |
 | **Respect without Free** | Politeness |
 | **Knowledge without Free** | Surveillance |
 | **Responsibility without Free** | Obligation as cage |
 | **Commit without Free** | Capture |
+| **Commitment without Consent** | Lock-in |
+| **Care without Impact awareness** | Benevolent harm |
+| **Intent without Impact awareness** | Self-excusing harm |
+| **Impact awareness without Repair** | Harm catalog |
+| **Impact awareness without Freedom** | Impact as control |
 | **Repair without Free** | Leash reattached under belonging-threat |
 | **Free without Repair** | Repairlessness |
 | **Consent without Free** | Signature under pressure |
@@ -481,6 +493,11 @@ The most load-bearing distortions are:
 The chart is not a substitute for judgment.
 
 It is a warning system.
+
+**Intent is not an eleventh substitute for love.** It can be relevant evidence about
+purpose, foresight, or responsibility. It cannot negate impact, consent, power, or a
+need for repair. Conversely, named impact must be heard and investigated without being
+forced to settle causation, remedy, or every disputed fact by itself.
 
 No cell is a diagnosis of a specific person, relationship, or community absent the room's own judgment, context, evidence, and repair discipline.
 
