@@ -115,9 +115,12 @@ Face:
 
 > Unlost Systems
 
-Spine:
+Compact spine:
 
 > Legible, Contestable, Repairable
+
+Complete operating discipline: complexity tolerance and continuity join the compact
+spine. A system must also tolerate complex lives and preserve context across handoffs.
 
 Working claim:
 

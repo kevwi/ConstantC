@@ -63,7 +63,9 @@ Participant responses awaiting review.
 These are drafts until Andie reviews them.
 
 ### `canon/`
-Promoted, durable material. Canon files should be stable, concise, and reviewed.
+Promoted, durable material and clearly marked canon candidates. Directory placement is
+not a maturity signal: only a file's explicit status and promotion record establish
+canon. Canon files should be stable, concise, and reviewed.
 
 Canon requires:
 
@@ -72,6 +74,11 @@ Canon requires:
 - steward approval
 - privacy classification
 - confidence/interpretive status
+
+Candidate files may be kept in `canon/` while under review so their intended
+constitutional scope is legible. They must say **canon candidate** (or equivalent),
+must not be cited as settled ground, and must not use promotion metadata that implies
+an event which has not occurred.
 
 ### `decisions/`
 Named decisions with rationale. Use these for governance choices such as public/private visibility, redaction rules, promotion standards, and workflow changes.

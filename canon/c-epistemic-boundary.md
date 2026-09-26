@@ -1,11 +1,12 @@
 # Canon — C Epistemic Boundary
 
-Status: canon candidate v0.1  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date promoted: 2026-06-03  
+Maturity reconciliation: 2026-09-26
 Steward: Andie  
 Source session: `sessions/2026-06-03-session-008-c-epistemic-boundary.md`  
 Privacy: public-safe  
-Confidence: epistemic boundary / anti-overclaim commitment
+Confidence: reviewed epistemic-boundary / anti-overclaim commitment
 
 ---
 
@@ -105,6 +106,10 @@ If this file and Session 008 diverge, Session 008 should be reviewed before repa
 
 ## Status
 
-Canon candidate promoted by Andie authorization on 2026-06-03.
+Promoted by Andie authorization on 2026-06-03. The earlier header's
+`canon candidate` label conflicted with that promotion record, the file's stated
+purpose, and its use as a minimum-read epistemic boundary; the 2026-09-26 maturity
+reconciliation corrects the label without rewriting its source session or implying
+that later review produced consensus.
 
 Review remains open. This file may be tightened as G, C, and Andie continue the work.
