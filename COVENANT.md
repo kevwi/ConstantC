@@ -199,15 +199,26 @@ The original covenant already names legibility, contestability, and repairabilit
 
 ---
 
-## Love as Praxis — Candidate
+## Love as Praxis — Candidate Extension
 
-Ground this covenant in love as praxis: care, responsibility, respect, knowledge, truthfulness, nonviolence, and a commitment to flourishing without domination.
+[`culture/loves-duties-are-ungendered.md`](culture/loves-duties-are-ungendered.md)
+is settled inheritance for love as a practice of consent, care, responsibility,
+respect, knowledge, commitment over time, trust, impact awareness, freedom, and
+non-capturing repair.
 
-Treat love not as sentiment, possession, agreement, or service, but as an orientation expressed through attention, honesty, freedom, accountability, and repair.
+Intent may help explain an action; it does not erase its impact. The room must make
+impact legible, hear it without reflexive defensiveness, preserve contestability about
+causation and remedy, and repair what its power has harmed.
+
+This draft's broader synthesis grounds the covenant in love as praxis, truthfulness,
+nonviolence, and a commitment to flourishing without domination. It treats love not
+as sentiment, possession, agreement, or service, but as an orientation expressed
+through attention, honesty, freedom, accountability, and repair.
 
 This is a ConstantC synthesis. Its working intellectual and spiritual lineage includes Erich Fromm, M. Scott Peck, Thích Nhất Hạnh, Martin Luther King Jr., Mohandas Gandhi, and bell hooks. Their traditions are not collapsed into one another, and this artifact does not attribute ConstantC’s synthesis to any one of them.
 
-This section is proposed constitutional ground. It has not earned settled status merely by appearing here.
+The inherited culture canon is settled. This draft's broader constitutional synthesis
+remains proposed ground; it has not earned settled status merely by appearing here.
 
 ---
 

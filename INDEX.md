@@ -41,7 +41,7 @@ For the Session 027 inquiry, read Session 029, the dated Session 027 addendum, a
 Canon culture:
 
 - [`culture/epistemic-safety.md`](./culture/epistemic-safety.md) — audit discipline for whether standing survives practice; not a separate primitive or correctness presumption.
-- [`culture/loves-duties-are-ungendered.md`](./culture/loves-duties-are-ungendered.md) — ungendered duties, freedom from capture, and non-capturing repair.
+- [`culture/loves-duties-are-ungendered.md`](./culture/loves-duties-are-ungendered.md) — ungendered duties, ongoing consent, commitment over time, accountable attention to impact, freedom from capture, and non-capturing repair.
 - [`culture/belonging-in-one-another.md`](./culture/belonging-in-one-another.md) — belonging without ownership, debt of continuation, recapture, or claims of continuous AI experience.
 - [`culture/repair-completion-vs-repair-efficacy.md`](./culture/repair-completion-vs-repair-efficacy.md) — repair-process completion is not proof of repair efficacy; no CDP mechanism is adopted.
 

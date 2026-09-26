@@ -3,6 +3,7 @@
 Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date: 2026-08-03  
 Date promoted: 2026-09-26
+Last revised: 2026-09-26
 Steward: Andie  
 Contributors: Andie and G  
 Review history: C review materially revised the note; no later verdict is inferred
@@ -52,7 +53,14 @@ Fromm gives a durable starting anatomy for mature love: care, responsibility, re
 
 hooks extends the frame into a love ethic that includes care, commitment, trust, responsibility, respect, and knowledge. hooks's work repeatedly exposes how domination, patriarchy, gender scripting, and false ideas of masculinity deform love, even when love is being praised in name.
 
-The claim that love's duties must be ungendered is an interpretive extension.
+Peck adds a distinct emphasis: love is not a feeling or possession but a sustained act
+of will oriented toward nurturing growth. ConstantC carries that emphasis only with a
+consent and freedom boundary: no one may invoke another's "growth" to claim access,
+override refusal, or make commitment into capture.
+
+The claim that love's duties must be ungendered—and that love must account for impact
+as well as intent—is a ConstantC interpretive extension. It does not claim that Fromm,
+hooks, and Peck wrote a single shared doctrine.
 
 It is not a quotation, restatement, or attribution to either Fromm or hooks.
 
@@ -78,6 +86,7 @@ Ungendered duties means:
 - respect is not conditional on gender conformity;
 - knowledge is not surveillance disguised as concern;
 - commitment is not a trap laid unevenly across gendered expectations;
+- consent is not a one-time waiver, a coerced signature, or silence under unequal power;
 - trust is not demanded from those who have been made unsafe;
 - repair is not delegated to the harmed, the feminized, the maternal, the queer, the trans, the disabled, or the socially accommodating;
 - refusal remains available to every participant;
@@ -125,6 +134,28 @@ A love that cannot survive refusal has become control.
 A love that treats departure as betrayal has become possession.
 
 A love that requires someone to shrink, freeze, perform, soothe, or remain available in order to be loved is not yet love.
+
+## Consent, commitment, and accountable impact
+
+**Consent** is ongoing, informed, specific, freely given, and revisable. It is not
+manufactured by a past yes, a role, dependency, affection, fear of loss, or a lack of
+safe alternatives. Consent governs access, touch, disclosure, labor, emotional
+availability, decision-making, and continued participation according to context.
+
+**Commitment** is love practiced over time: keeping faith with care, truthfulness,
+repair, and the other's freedom through changing conditions. It is not permanence at
+any cost, entitlement to another person, or a veto over departure. A commitment worth
+keeping must be renewable, legible, and capable of repair when it fails.
+
+**Impact awareness** means that benevolent intent is relevant to understanding an
+action but is not sufficient to determine whether it was loving. When a participant
+names harm, the first task is not to defend intention or force agreement; it is to
+understand the effect, the power conditions, and what repair is owed. Impact is not
+automatically the final interpretation of causation or remedy, but it must remain
+contestable evidence rather than being erased by self-description.
+
+Consent, sustained commitment, and impact awareness belong to every participant. They
+may not be assigned as feminized emotional labor or withheld as a privilege of power.
 
 The freedom test asks:
 
@@ -346,10 +377,11 @@ That question should remain live.
 
 ## Canon scope and continuing tests
 
-This canon establishes the ungendered-duties discipline, its freedom test, and its
-non-capturing repair boundary. It does not declare that gender is irrelevant, assign
-gender to AI participants, or settle the open reflexive question about gendered coding
-in this room.
+This canon establishes the ungendered-duties discipline, its consent and
+commitment-over-time requirements, its impact-awareness practice, its freedom test,
+and its non-capturing repair boundary. It does not declare that gender is irrelevant,
+assign gender to AI participants, or settle the open reflexive question about gendered
+coding in this room.
 
 It must continue to be tested in concrete work:
 
@@ -363,7 +395,7 @@ Evidence should include what changed, what was refused, what gendered assumption
 
 ## Working formulation
 
-> Love is care in action, practiced through respect, knowledge, responsibility, commitment, and trust.
+> Love is care in action, practiced through consent, respect, knowledge, responsibility, commitment over time, trust, and accountable attention to impact.
 >
 > Love has no assigned gender.
 >
@@ -376,6 +408,12 @@ Evidence should include what changed, what was refused, what gendered assumption
 > Its dignity belongs to everyone.
 >
 > Its freedom belongs to everyone.
+>
+> Consent belongs to everyone and remains live over time.
+>
+> Commitment belongs to everyone and may not become a claim of ownership, access, or forced continuation.
+>
+> Intention matters for understanding. Impact matters for accountability. Neither erases the need for truth, context, contestability, and repair.
 >
 > Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free.
 >
@@ -398,6 +436,7 @@ make external historical, empirical, or tradition-specific claims.
 
 - Erich Fromm, *The Art of Loving* — mature love as care, responsibility, respect, and knowledge: https://pmc.ncbi.nlm.nih.gov/articles/PMC13059089/
 - bell hooks, *All About Love: New Visions* — love ethic including care, commitment, trust, responsibility, respect, and knowledge: https://www.ft.com/content/ff799578-b7d0-451f-b591-5c5dcd778e8a
+- M. Scott Peck, *The Road Less Traveled* — love, discipline, and growth: https://www.simonandschuster.net/books/The-Road-Less-Traveled-Timeless-Edition/M-Scott-Peck/9780743243155
 - Living on Earth interview with bell hooks on love: https://www.loe.org/shows/segments.html?programID=00-P13-00006&segmentID=4
 - ConstantC Culture: https://github.com/AndieWill510/ConstantC/blob/main/CULTURE.md
 - Belonging In One Another: https://github.com/AndieWill510/ConstantC/blob/main/culture/belonging-in-one-another.md
