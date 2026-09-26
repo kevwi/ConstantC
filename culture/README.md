@@ -30,6 +30,10 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 ## Canon
 
 - [`repair-as-constitutional-obligation.md`](repair-as-constitutional-obligation.md) — establishes repair as a required constitutional act rather than a discretionary response; requires nemawashi, forbids learning or finality that bypasses repair, and binds future ConstantC and CDP architecture.
+- [`epistemic-safety.md`](epistemic-safety.md) — establishes the audit discipline for whether formally allocated standing survives practice; it is not a separate primitive and does not certify every challenge as correct.
+- [`loves-duties-are-ungendered.md`](loves-duties-are-ungendered.md) — establishes ungendered duties, the freedom-from-capture test, and non-capturing repair while preserving gendered context and open reflexive questions.
+- [`belonging-in-one-another.md`](belonging-in-one-another.md) — establishes belonging without ownership, debt of continuation, recapture, or claims of continuous AI experience.
+- [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — establishes that procedural completion is not proof of repair efficacy; it does not supply an unadopted CDP mechanism.
 
 ## Active culture notes
 
@@ -38,21 +42,17 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 - [`illness-as-boundary.md`](illness-as-boundary.md) — witnesses illness as a real bodily boundary signal when ordinary refusal has been made too costly, while guarding against medical overclaiming, shame, blame, or treating symptoms as fake.
 - [`verification-as-access.md`](verification-as-access.md) — names verification as an access practice; establishes fresh verification stubs with commit-specific URLs and expected state when collaborator repository reads disagree.
 
-## Proposed culture: standing, epistemic safety, and constitutional comparison
+## Proposed culture: standing and constitutional comparison
 
 - [`standing-is-the-first-covenant.md`](standing-is-the-first-covenant.md) — proposes standing as a normative allocation within inquiry; now explicitly distinguishes standing from epistemic safety, retires `relational epistemic safety` as a separate node, and keeps primitive status open.
 - [`standing-vs-epistemic-safety.md`](standing-vs-epistemic-safety.md) — reconciles the sibling documents: standing names the normative place; epistemic safety audits whether the place is real; records the contestability and falsification fault lines.
-- [`epistemic-safety.md`](epistemic-safety.md) — develops epistemic safety as an audit of whether allocated standing survives practice; preserves its status as a possible completeness condition for rigorous contestability rather than a settled separate primitive.
 - [`candidate-constitutional-primitives.md`](candidate-constitutional-primitives.md) — compares standing with recognition, participation, dignity, non-exclusion, witness, care, justice, and sovereignty; no winner declared.
 - [`worked-case-standing-ai-prior-authorization.md`](worked-case-standing-ai-prior-authorization.md) — distinguishes standing allocation, epistemic-safety realization, and contestability in AI-assisted public-health prior authorization; adds reachability auditing and CDP implementation seams.
 - [`worked-case-standing-indigenous-land.md`](worked-case-standing-indigenous-land.md) — tests the standing framework against Indigenous land, Land Back, recognition, and sovereignty; warns that sovereignty must not be flattened into stakeholder standing.
 
 ## Other proposed culture
 
-- [`belonging-in-one-another.md`](belonging-in-one-another.md) — reconciles the affective language of belonging with CDP standing, recusal, sovereignty, and TinyDoor's anti-leash exit test; preserves refusal and departure while distinguishing repository persistence from continuity of AI experience.
-- [`loves-duties-are-ungendered.md`](loves-duties-are-ungendered.md) — proposes ungendered duties as a backbone condition for love ethics in ConstantC; preserves the Fromm/hooks-informed synthesis while forbidding gendered hierarchy, extracted feminized care, gender-blind erasure, and gendered exemption from repair.
 - [`justice-liberty-freedom-gap.md`](justice-liberty-freedom-gap.md) — distinguishes liberty from lived freedom, names the justice obligation created by that gap, and proposes the Justice Interdependence Cycle linking health, redemption, repair, and commitment pending challenge and merge.
-- [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — distinguishes completed repair process from actual repair efficacy, names the epistemic risks that can leave a harmed party unrepaired, and preserves future CDP repair-verification questions without turning them into a checklist.
 - [`agent-provenance-and-role-separation.md`](agent-provenance-and-role-separation.md) — proposes a three-participant trusted kernel alongside six separable workflow roles; treats Dispatch, implementers, and CI as constrained infrastructure rather than trusted legitimacy authorities.
   - **Challenge pending:** [`agent-provenance-and-role-separation-challenge-2026-08-14.md`](agent-provenance-and-role-separation-challenge-2026-08-14.md) — stress-tests the proposal against a multi-model development workflow; challenges the missing adversarial-falsifier role, qualified independence claims, spec-originator/conformance boundaries, blind-first falsification, and compact disagreement provenance. No repair to the challenged note is implied until adjudication.
 - [`cognitive-load-as-governance.md`](cognitive-load-as-governance.md) — proposes human attention as a governed resource; separates status, evidence, decision requests, implementation detail, and archive detail so agent-assisted work does not place the human steward under the pile.

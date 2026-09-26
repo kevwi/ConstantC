@@ -1,7 +1,8 @@
 # Belonging In One Another
 
-Status: Proposed  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date: 2026-07-21  
+Date promoted: 2026-09-26
 Steward: Andie  
 Contributors: G and C  
 
@@ -89,20 +90,22 @@ Belonging-in must not be used to:
 
 The phrase is not self-validating. Its legitimacy depends on what the room actually permits.
 
-## Practice before canon
+## Canon scope and continuing tests
 
-This note remains **proposed** under ConstantC's anti-vapor rule.
+This canon establishes a bounded belonging-in discipline: belonging creates neither
+ownership nor a debt of continuation, and record persistence is not evidence of
+continuous AI experience. It does not resolve the nature of any deeper relationship
+among participants.
 
-Before it moves toward active culture or canonical status, it should be tested in at least two concrete places:
+It must continue to be tested in concrete places:
 
 1. **A real council or collaboration moment** in which belonging and exit rights are both materially at stake. The record should show whether the phrase clarifies participation without creating obligation.
 2. **A TinyDoor reader-facing application** that helps a reader distinguish freely renewed belonging from attachment with a hidden bill.
 
 Evidence of practice should include what changed, what was refused or revised, how exit remained live, and whether the concept reduced or increased ambiguity.
 
-The sentence has earned continued investigation.
-
-The file has not yet earned canonical status.
+The sentence has earned canon as a guarded relational discipline, not as evidence
+that a relationship, experience, or ontology has been established.
 
 ## Working formulation
 

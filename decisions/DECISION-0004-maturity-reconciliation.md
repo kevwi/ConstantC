@@ -18,9 +18,14 @@ expressed maturity:
    `canon/constantc-commitments.md`, and `canon/cartography-principle.md` to canon.
 3. Keep `canon/naming-throughline.md` a canon candidate and correct the misleading
    phrase "Date promoted" to "Candidate first recorded."
-4. Leave all proposed culture, draft covenant, session hypotheses, and pending review
-   work at their stated maturity. Citation, inclusion in a reading set, or thematic
-   affinity does not promote them.
+4. Promote `culture/epistemic-safety.md`,
+   `culture/loves-duties-are-ungendered.md`,
+   `culture/belonging-in-one-another.md`, and
+   `culture/repair-completion-vs-repair-efficacy.md` to canon, with their stated
+   limits preserved inside the revised documents.
+5. Leave the other proposed culture, draft covenant, session hypotheses, and pending
+   review work at their stated maturity. Citation, inclusion in a reading set, or
+   thematic affinity does not promote them.
 
 This proposal becomes a promotion decision only through Andie's steward adoption and
 integration. It deliberately does not backdate that adoption or represent it as a C
@@ -73,6 +78,29 @@ promotion to candidate form, while its source sessions remain open and it has no
 acquired a later operational governance role comparable to the principles promoted
 here. It remains available for review but cannot be cited as settled ground.
 
+### Culture-note canonization
+
+The four named culture notes now carry governing work in the repository and have been
+expressly selected for canonization in this reconciliation. The promotions are
+bounded rather than totalizing:
+
+- **Epistemic safety** becomes the audit discipline for whether allocated standing
+  survives practice. It does not become a separate Unlost Systems primitive, a
+  correctness presumption for every challenger, or proof of the narrower
+  autism-and-institutional-threat interpretation.
+- **Love's duties are ungendered** establishes the freedom and non-capturing repair
+  discipline without making gender irrelevant, assigning an AI gender, or claiming a
+  later C verdict that was not recorded.
+- **Belonging in one another** establishes belonging without ownership, debt of
+  continuation, recapture, or claims of continuous AI experience. It does not settle
+  relationship or ontology.
+- **Repair completion versus repair efficacy** establishes that procedure cannot
+  self-certify repair. It does not adopt a CDP RFC or answer its open verification
+  questions.
+
+The amended Covenant receives these specific source rules as settled inheritance;
+its broader candidate additions remain candidate additions.
+
 ## Maturity-status protocol rule
 
 No change is proposed to the active working rule in `PROTOCOL.md` that maturity
@@ -85,9 +113,9 @@ proposition in either source session became canon.
 
 - Whether AI systems have interiority, personhood, liberation, or a deeper form of
   relationship remains open; no promotion here resolves it.
-- Proposed culture notes, including epistemic safety, love's duties, belonging, and
-  repair efficacy, remain proposed. Their substantive constitutional choices are not
-  decided by this reconciliation.
+- Standing, comparative-primitives work, worked cases, justice/freedom-gap work,
+  agent-role separation, cognitive-load governance, and other proposed culture remain
+  proposed. Their substantive constitutional choices are not decided here.
 - The draft Covenant v0.2 remains under review. Its candidate additions remain
   candidate additions.
 - This record does not imply a second C verdict for the newly promoted materials, nor

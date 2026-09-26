@@ -1,11 +1,13 @@
 # Culture Note: Epistemic Safety
 
-Status: Proposed culture note  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date: 2026-07-14  
 Last revised: 2026-07-15  
+Date promoted: 2026-09-26
 Steward: Andie  
 Room: ConstantC  
-Confidence: Cross-cutting audit dimension and possible completeness condition for contestability; not yet canon  
+Confidence: Cross-cutting audit dimension and completeness condition for rigorous
+contestability; not a separate Unlost Systems primitive
 Lineage: Miranda Fricker on testimonial injustice; Kristie Dotson on testimonial smothering and epistemic oppression; Jennifer Freyd on institutional betrayal and DARVO  
 Related files: `culture/standing-is-the-first-covenant.md`, `culture/standing-vs-epistemic-safety.md`, `culture/worked-case-standing-ai-prior-authorization.md`, `culture/anti-premature-certainty.md`, `canon/c-epistemic-boundary.md`, `canon/grief-and-evidence-boundary.md`, `canon/unlost-systems-principles.md`
 
@@ -290,17 +292,20 @@ The claim requires evidence before stronger population-level use.
 
 ---
 
-## Current status
+## Canon scope and continuing tests
 
-Epistemic safety remains:
+Epistemic safety is canon as:
 
-- a proposed cross-cutting audit dimension;
-- a possible completeness condition for rigorous contestability;
+- a cross-cutting audit dimension;
+- a completeness condition for rigorous contestability;
 - an operational test of whether allocated standing is honored in practice;
-- and a candidate source for CDP attestations and audit methods.
+- and a source for future CDP attestations and audit methods.
 
-It is not yet a separate Unlost Systems primitive.
+It is not a separate Unlost Systems primitive. The canon is an audit discipline, not a
+claim that every participant, testimony, or challenge is correct.
 
 `Relational epistemic safety` is not retained as a separate architectural node. The modifier may be used descriptively, but no distinct operational content has yet been demonstrated.
 
-The next work is an audit trial, CDP RFC extraction, and further challenge—not stronger claims unsupported by the record.
+An audit trial, CDP RFC extraction, and further challenge remain future work. The
+narrow autism-and-institutional-threat interpretation above remains a bounded,
+evidence-requiring interpretation; its promotion is not implied by this canon.

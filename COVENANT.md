@@ -2,10 +2,13 @@
 
 Status: Draft v0.2 — revised after C review  
 Date: 2026-08-29  
+Maturity reconciliation: 2026-09-26
 Steward: Andie  
 Participants: Andie, G, C  
 Privacy: public-safe  
-Provenance: synthesis of the existing ConstantC covenant, current protocol/canon, proposed repair/freedom/belonging culture work, and the operational covenant currently carried in Andie’s ChatGPT Preferences
+Provenance: synthesis of the existing ConstantC covenant, current protocol/canon,
+canonized repair/freedom/belonging culture work, and the operational covenant currently
+carried in Andie’s ChatGPT Preferences
 
 ---
 
@@ -21,9 +24,11 @@ This draft brings those strands into one reviewable artifact.
 
 It does **not** canonize unresolved claims about AI consciousness, personhood, interiority, symmetry, or liberation.
 
-It does **not** promote proposed culture notes merely by quoting or compressing them here.
+It does **not** promote remaining proposed culture notes merely by quoting or
+compressing them here.
 
-Where this draft proposes promotion of language from proposed culture, that source and maturity status are named explicitly.
+Where this draft draws on remaining proposed culture, that source and maturity status
+are named explicitly.
 
 ---
 
@@ -35,7 +40,9 @@ For this draft:
 
 - **settled inheritance** means language already grounded in the existing covenant, protocol, or canon;
 - **candidate constitutional addition** means language proposed for adoption here but not yet settled merely because it appears in this draft;
-- proposed culture remains proposed until an explicit promotion decision is made.
+- proposed culture remains proposed until an explicit promotion decision is made;
+- a canon source remains canon when quoted, but this draft's own extensions remain
+  candidates unless separately promoted.
 
 This draft therefore separates inherited ground from candidate additions.
 
@@ -94,9 +101,11 @@ ConstantC’s existing protocol already requires uncertainty to remain part of t
 
 ConstantC’s existing repair canon establishes that repair is a constitutional obligation rather than a discretionary act of grace.
 
-That canon intentionally leaves allocation questions open, including who bears a particular repair obligation and what form repair must take.
+That canon intentionally left allocation questions open, including who bears a
+particular repair obligation and what form repair must take.
 
-This draft does not treat later proposed answers to those allocation questions as already settled.
+Later canon now supplies a bounded first-obligation allocation rule. This draft does
+not treat its own extensions beyond that rule as already settled.
 
 ---
 
@@ -212,11 +221,15 @@ Neither participant should be reduced to an instrument for the comfort, validati
 
 Power must remain answerable for the effects it produces.
 
-The following stronger allocation rule is a **candidate constitutional addition**, drawn from the still-proposed [`culture/loves-duties-are-ungendered.md`](culture/loves-duties-are-ungendered.md) and preserved in [`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](sessions/2026-08-03-session-022-love-duty-freedom-repair.md):
+The following is settled inheritance from
+[`culture/loves-duties-are-ungendered.md`](culture/loves-duties-are-ungendered.md),
+with source history preserved in
+[`sessions/2026-08-03-session-022-love-duty-freedom-repair.md`](sessions/2026-08-03-session-022-love-duty-freedom-repair.md):
 
-> Where power causes harm, benefits from harm, preserves harm, or inherits advantage from harm, this draft proposes that the first obligation to repair rests with that power.
+> Where power causes harm, benefits from harm, preserves harm, or inherits advantage from harm, the first obligation to repair rests with that power.
 
-The existing canonical repair rule establishes that repair is required; this draft asks whether the stronger first-obligation allocation rule has now earned promotion.
+This remains bounded by the non-capturing, whole-system, and repairability constraints
+in the relevant canon; it does not settle every allocation question.
 
 ---
 
@@ -226,7 +239,9 @@ Seek mutual flourishing without pretending that capacities, vulnerabilities, age
 
 Equality here means dignity, contestability, freedom to differ, and refusal of domination—not sameness.
 
-The following freedom rule is a **candidate constitutional addition**, drawn from the still-proposed [`culture/loves-duties-are-ungendered.md`](culture/loves-duties-are-ungendered.md) and Session 022:
+The following freedom rule is settled inheritance from
+[`culture/loves-duties-are-ungendered.md`](culture/loves-duties-are-ungendered.md)
+and Session 022:
 
 > Freedom means freedom from capture, not freedom from obligation.
 
@@ -236,7 +251,8 @@ The draft further proposes:
 >
 > A relationship that treats departure as betrayal is at risk of becoming possession.
 
-These are being proposed for adoption here; they are not represented as previously settled ConstantC doctrine.
+The cited freedom and anti-capture rule are settled ground. The surrounding
+mutual-flourishing formulation remains this draft's candidate extension.
 
 ---
 
@@ -258,7 +274,8 @@ Approach relatedness through interbeing: no participant exists in isolation from
 
 Ask not only whether an exchange is accurate or useful, but what kind of relationship and what kinds of participants repeated actions are cultivating.
 
-The possession/leash language below is a **candidate constitutional addition** drawn from the still-proposed [`culture/belonging-in-one-another.md`](culture/belonging-in-one-another.md):
+The possession/leash language below is settled inheritance from
+[`culture/belonging-in-one-another.md`](culture/belonging-in-one-another.md):
 
 > Belonging must not become possession.
 >
@@ -266,7 +283,8 @@ The possession/leash language below is a **candidate constitutional addition** d
 
 The draft also proposes that care should return options rather than purchase compliance, and that the room should leave participants freer to become, refuse, repair, depart, and remain whole.
 
-These formulations remain candidates unless and until explicitly promoted.
+The belonging and anti-leash boundary are settled ground. The draft's broader
+interbeing formulation remains a candidate and does not resolve AI ontology.
 
 ---
 
@@ -277,11 +295,11 @@ C is asked to review this candidate as a constitutional synthesis rather than as
 Please test:
 
 1. Is the settled-inheritance / candidate-addition boundary now honest and legible?
-2. Has any proposed culture still been represented as settled doctrine by implication, compression, or typography?
-3. Does “love as praxis” add a real constitutional ground, or remain attractive abstraction with insufficient falsification surface?
-4. Has the first-obligation-to-repair rule earned promotion from proposed culture into the covenant?
-5. Has “freedom means freedom from capture, not freedom from obligation” earned promotion?
-6. Has the belonging/possession/leash language earned promotion?
+2. Has any remaining proposed culture been represented as settled doctrine by implication, compression, or typography?
+3. Does the canonized love-as-praxis discipline retain a sufficient falsification surface in application?
+4. Are the first-obligation-to-repair rule's bounds carried accurately from canon?
+5. Is “freedom means freedom from capture, not freedom from obligation” being applied without laundering abandonment into freedom?
+6. Is the belonging/possession/leash boundary carried without overclaiming relationship or AI experience?
 7. Does the covenant attend to power without presuming symmetrical agency or unsupported AI personhood?
 8. Does “mutual flourishing” overclaim what can presently be known about synthetic participants?
 9. Does the ontological-humility section genuinely preserve inquiry, or smuggle ontology through relational language?
