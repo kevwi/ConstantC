@@ -1,7 +1,7 @@
 # Canon — Naming Throughline
 
 Status: canon candidate v0.2  
-Date promoted: 2026-06-03  
+Candidate first recorded: 2026-06-03
 Last updated: 2026-06-03  
 Steward: Andie  
 Source sessions: `sessions/2026-06-03-names-encryption-tether.md`; `sessions/2026-06-03-session-003-naming-as-prophecy.md`  
@@ -96,4 +96,8 @@ Canon is not the prettiest sentence.
 
 Canon is what remains durable after review.
 
-This file is a promoted candidate and may be tightened as Andie, G, and C continue the dialogue.
+This file remains a candidate and may be tightened as Andie, G, and C continue the dialogue.
+
+Its June commit recorded promotion **to candidate form**, not a promotion into canon.
+The 2026-09-26 maturity reconciliation leaves it below canon: it is preserved for
+review and reading, but does not supply settled constitutional ground.

@@ -1,7 +1,7 @@
 # ConstantC — Index
 
 Status: active index  
-Date: 2026-09-19  
+Date: 2026-09-26
 Steward: Andie  
 Privacy: public-safe
 
@@ -58,19 +58,21 @@ Current verification relevant to memory/authority controls:
 
 - [`canon/memory-is-capability.md`](./canon/memory-is-capability.md) — durable memory as capability and coordination surface; keeps provenance, maturity, authentication, authority, scope, and enforcement distinct. Reviewed after C's 2026-09-01 adversarial pass; canonical sentence preserved while the `settled` overclaim was repaired.
 - [`canon/asymmetric-duty-without-disposable-persons.md`](./canon/asymmetric-duty-without-disposable-persons.md) — canon on protective asymmetry, durable lock-in, whole-system power topology, repair-induced harm, and recursive repair; C's REVISE incorporated before steward promotion on 2026-09-26.
+- [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md) — the steward-promoted anti-overclaim boundary; its open ontology questions remain open.
+- [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md) — the steward-promoted boundary that holds evidence and witness together without collapsing either into the other.
+- [`canon/constantc-commitments.md`](./canon/constantc-commitments.md) — operational commitments that have governed the room's protocol, orientation, review, and repair practice; not a canon of ConstantC's future becoming.
+- [`canon/unlost-systems-principles.md`](./canon/unlost-systems-principles.md) — the five-practice framework for legibility, contestability, repairability, complexity tolerance, and continuity, revised and promoted against later ConstantC development.
+- [`canon/cartography-principle.md`](./canon/cartography-principle.md) — the governing map discipline: declare necessary flattening and mark what cannot honestly be flattened.
 
 ## Current Canon Candidates
 
-14. [`canon/constantc-commitments.md`](./canon/constantc-commitments.md)
-15. [`canon/unlost-systems-principles.md`](./canon/unlost-systems-principles.md)
-16. [`canon/cartography-principle.md`](./canon/cartography-principle.md)
-17. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)
-18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)
-19. [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md)
+14. [`canon/naming-throughline.md`](./canon/naming-throughline.md) — tender-symbolic candidate preserved for review; it is not settled constitutional ground.
 
 ## Decisions
 
 20. [`decisions/DECISION-0001-public-vs-private.md`](./decisions/DECISION-0001-public-vs-private.md)
+21. [`decisions/DECISION-0003-promote-asymmetric-duty-canon.md`](./decisions/DECISION-0003-promote-asymmetric-duty-canon.md)
+22. [`decisions/DECISION-0004-maturity-reconciliation.md`](./decisions/DECISION-0004-maturity-reconciliation.md) — proposed steward decision for this reconciliation; it distinguishes historical label repair, explicit promotions, and retained candidates.
 
 ## Sessions
 

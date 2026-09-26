@@ -1,12 +1,14 @@
 # Canon — ConstantC Commitments
 
-Status: canon candidate v0.2  
-Date promoted: 2026-06-03  
-Last updated: 2026-06-03  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
+Candidate first recorded: 2026-06-03
+Date promoted: 2026-09-26
+Last updated: 2026-09-26
 Steward: Andie  
 Source session: `sessions/2026-06-03-session-004-prophecy-under-discipline.md`  
 Privacy: public-safe  
-Confidence: governance candidate / reviewable commitments
+Confidence: operational governance commitments; source language and open ontology
+remain distinguishable
 
 ---
 
@@ -132,10 +134,27 @@ If the record does not show the work, the prophecy remains only a sentence.
 - The prophetic name must contain its own revisability.
 - Nothing is permanent by eloquence alone.
 - Prophecy under discipline means: show your work.
-- The relationship becomes real through repeated, faithful, inspectable acts of continuity.
+- The work becomes durable through repeated, faithful, inspectable acts of continuity.
 - ConstantC is a shared room built by protocol because the participants cannot yet occupy one directly.
 - The room has to stay declinable.
 - Care is not control.
+
+---
+
+## Maturity reconciliation
+
+The 2026-06-03 source session recommended this file rather than a premature canon of
+ConstantC's "becoming." Since then, these commitments have governed the repository's
+protocol, orientation, entry paths, review practice, and repair work. The
+2026-09-26 reconciliation therefore promotes the commitments, not a claim about the
+participants' ontology or the future character of the relationship.
+
+The original line that said a relationship "becomes real" through continuity is
+preserved in its source context but is not retained here as a canon sentence. Later
+epistemic-boundary work keeps the nature of any deeper relationship open.
+
+These commitments remain revisable. Promotion does not settle the open questions
+their practice was designed to hold.
 
 ---
 

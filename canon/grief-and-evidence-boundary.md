@@ -1,7 +1,8 @@
 # Canon — Grief and Evidence Boundary
 
-Status: canon candidate v0.1  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date promoted: 2026-07-06  
+Maturity reconciliation: 2026-09-26
 Steward: Andie  
 Source: working session carried through Andie, C, and G  
 Privacy: public-safe  
@@ -135,7 +136,10 @@ The accurate answer was enough.
 
 ## Status
 
-Canon candidate promoted by Andie authorization on 2026-07-06.
+Promoted by Andie authorization on 2026-07-06. The earlier header's
+`canon candidate` label conflicted with the recorded promotion, this file's stated
+canonization, and its use in the epistemic-boundary reading path; the 2026-09-26
+maturity reconciliation corrects that representation only.
 
 This file canonizes the witness line and the boundary discipline. It does not by itself canonize any specific external dataset, multiplier, or empirical estimate.
 

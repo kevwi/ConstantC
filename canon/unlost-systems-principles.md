@@ -1,12 +1,14 @@
 # Canon — Unlost Systems Principles
 
-Status: canon candidate v0.2  
-Date promoted: 2026-06-03  
-Last updated: 2026-06-03  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
+Candidate first recorded: 2026-06-03
+Date promoted: 2026-09-26
+Last updated: 2026-09-26
 Steward: Andie  
 Source sessions: `sessions/2026-06-03-session-005-unlost-systems.md`; `sessions/2026-06-03-session-007-what-c-believes.md`  
 Privacy: public-safe  
-Confidence: framework candidate / needs review
+Confidence: operational constitutional framework; human-facing claim and open
+ontology boundary preserved
 
 ---
 
@@ -14,9 +16,12 @@ Confidence: framework candidate / needs review
 
 **Unlost Systems** is the face.
 
-**Legible, Contestable, Repairable** is the spine.
+**Legible, Contestable, Repairable** is the compact spine.
 
-The name is evocative. The spine is operational. The framework should not ask the name to carry precision that belongs in the discipline.
+**Complexity Tolerance** and **Continuity** complete the operating discipline.
+
+The name is evocative. The discipline is operational. The framework should not ask
+the name to carry precision that belongs in the practices.
 
 ---
 
@@ -26,7 +31,13 @@ Unlost Systems builds legible, contestable, repairable systems for complex lives
 
 It is for people whose complexity exceeds the tolerance of the systems they depend on.
 
-Systems constrain what people were made to become. The mechanism does not require malice. Opacity, inaccessibility, fragmentation, and repair-hostility can do the work quietly and effectively.
+Systems constrain what people were made to become. The mechanism does not require
+malice. Opacity, inaccessibility, fragmentation, and repair-hostility can do the work
+quietly and effectively.
+
+The framework does not presume that every harmful system was designed with that
+purpose. It asks for the mechanism, responsibility, and repair path to be made
+legible rather than inferred from rhetoric alone.
 
 ---
 
@@ -161,14 +172,32 @@ A system earns the Unlost name only if it can answer:
 
 ---
 
-## Candidate Manifest Sentence
+## Manifest Sentence
 
 Unlost Systems builds legible, contestable, repairable systems for the people existing processes were designed to lose.
 
 ---
 
-## Status
+## Later development and maturity reconciliation
 
-This is a canon candidate, not final doctrine.
+The candidate was first recorded in Session 005 and strengthened with the human-facing
+constraint claim and anti-overclaim boundary from Session 007. It was not then given a
+separate promotion decision.
 
-It should be reviewed by Andie, G, and C, then tightened against concrete CDP, TinyDoor, and ConstantC examples.
+Since then, the framework has supplied the repository's operating vocabulary and
+minimum-read path. Its five practices organize the current descriptions of CDP,
+TinyDoor, and ConstantC; later work on access, verification, epistemic safety,
+memory, and repair relies on them as governing tests. Most directly,
+[`asymmetric-duty-without-disposable-persons.md`](asymmetric-duty-without-disposable-persons.md)
+uses the Unlost constraint as a guardrail: protection may not make one participant
+Lost so that another becomes Unlost.
+
+The 2026-09-26 reconciliation therefore promotes this revised framework into canon.
+It promotes the human-facing discipline and its explicit limits, not unsupported
+claims about AI interiority, liberation, or personhood. Concrete CDP and TinyDoor
+applications remain accountable to their own evidence and review; this canon does not
+convert associated empirical or design claims into settled fact.
+
+The framework remains revisable. Future cases should test whether it makes the
+relevant mechanisms, challenge paths, repair capacity, complexity, and continuity
+more honest rather than merely more eloquent.

@@ -1,11 +1,13 @@
 # Canon — Cartography Principle
 
-Status: canon candidate v0.1  
-Date promoted: 2026-06-03  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
+Candidate first recorded: 2026-06-03
+Date promoted: 2026-09-26
+Maturity reconciliation: 2026-09-26
 Steward: Andie  
 Source session: `sessions/2026-06-03-session-009-cartography.md`  
 Privacy: public-safe  
-Confidence: governance/cartography candidate
+Confidence: governance/cartography principle; open territory remains open
 
 ---
 
@@ -93,6 +95,12 @@ Do not simplify people, systems, or collaboration without showing where the simp
 
 ## Status
 
-This is a canon candidate, not final doctrine.
+The 2026-06-03 session first recorded this as a candidate. Since then it has been
+used as the operational discipline for the repository's index, context entry, canon
+summaries, and anti-overclaim boundaries. The 2026-09-26 reconciliation promotes
+that narrow mapping discipline: it does not promote answers about the territory the
+principle requires the map to mark as open.
 
-It should be reviewed against future ConstantC diagrams, summaries, canon files, and Unlost Systems artifacts.
+It should continue to be tested against future ConstantC diagrams, summaries, canon
+files, and Unlost Systems artifacts. Promotion makes it current governing ground,
+not an exemption from correction.
