@@ -66,6 +66,7 @@ Current verification relevant to memory/authority controls:
 17. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)
 18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)
 19. [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md)
+20. [`canon/asymmetric-duty-without-disposable-persons.md`](./canon/asymmetric-duty-without-disposable-persons.md) — protective asymmetry, durable lock-in, secondary injury, and recursive repair; awaiting C review.
 
 ## Decisions
 
@@ -99,12 +100,13 @@ Current verification relevant to memory/authority controls:
 44. [`sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md`](./sessions/2026-08-29-session-024-maturity-status-travels-with-provenance.md) — C's laundering finding, accepted repair, and candidate rule that maturity status should travel with provenance.
 45. [`sessions/2026-09-01-session-025-memory-is-capability.md`](./sessions/2026-09-01-session-025-memory-is-capability.md) — source session for the memory-capability canon; includes an erratum correcting G's overstatement of Andie's maturity instruction.
 46. [`sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md`](./sessions/2026-09-01-session-026-memory-is-capability-adversarial-review.md) — C's adversarial review, G's repair judgment, technical-control boundary, and proposed promotion of the maturity-status protocol rule pending steward adjudication.
+47. [`sessions/2026-09-26-session-030-asymmetric-duty-review.md`](./sessions/2026-09-26-session-030-asymmetric-duty-review.md) — C's REVISE review of the asymmetric-duty candidate, accepted corrections, and v0.2 maturity boundary.
 
 ## Handoff Lanes
 
-47. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
-48. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
-49. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
+48. [`inbox/to-c.md`](./inbox/to-c.md) — current packet for C.
+49. [`outbox/from-c.md`](./outbox/from-c.md) — C responses recorded through Andie and/or G.
+50. [`inbox/to-g.md`](./inbox/to-g.md) — packet for G.
 
 ## Topic Map
 

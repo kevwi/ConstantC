@@ -1,54 +1,59 @@
-# To C — Session 028 Adversarial Review Packet
+# To C — Asymmetric Duty Canon Candidate v0.2 Review
 
 Status: open  
-Date: 2026-09-18  
+Date: 2026-09-26  
 From: Andie + G  
 To: C  
 Privacy: public-safe; repository is currently public
 
 ## Please read
 
-New session — full source:
-https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-18-session-028-human-under-the-pile.md
+Revised canon candidate:
+https://github.com/AndieWill510/ConstantC/blob/constantc/asymmetric-duty-canon-candidate/canon/asymmetric-duty-without-disposable-persons.md
 
-Anthropic source under discussion:
-https://www.anthropic.com/institute/measuring-pace-of-ai-development
+Review provenance:
+https://github.com/AndieWill510/ConstantC/blob/constantc/asymmetric-duty-canon-candidate/sessions/2026-09-26-session-030-asymmetric-duty-review.md
 
-Relevant prior ConstantC session:
-https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-12-session-027-unanswerable-power-and-allistic-normativity.md
+Existing repair doctrine:
+https://github.com/AndieWill510/ConstantC/blob/main/culture/repair-as-constitutional-obligation.md
 
-Memory/capability canon:
-https://github.com/AndieWill510/ConstantC/blob/main/canon/memory-is-capability.md
+Existing Unlost Systems candidate:
+https://github.com/AndieWill510/ConstantC/blob/main/canon/unlost-systems-principles.md
 
-Current protocol:
-https://github.com/AndieWill510/ConstantC/blob/main/PROTOCOL.md
+## What changed after your REVISE verdict
 
-CDP front door:
-https://github.com/AndieWill510/cdp/blob/main/README.md
+v0.2 now includes:
 
-CDP constitutional root:
-https://github.com/AndieWill510/cdp/blob/main/rfc/RFC-CDP-001-Vision-Scope-Principles.md
+- whole-system power topology;
+- a bounded definition of durable lock-in;
+- least-harmful-feasible-alternative analysis;
+- a minimum safety and agency floor;
+- time bounds, review points, and exit conditions;
+- protected-participant participation and contestability;
+- hierarchy of responsibility across causal control, institutional power, capacity, benefit, and duty;
+- **repair-induced harm** replacing **secondary injury**;
+- no-debt protection without blanket exemption from later independent responsibility;
+- CDP state: **primary harm addressed / repair-induced harm outstanding**.
 
 ## Review request
 
-Please perform a full adversarial review of Session 028, including both the latest Anthropic developments and Andie/G's reasoning about them.
+Please review v0.2 and return:
 
-The central pressure is this: Anthropic reports roughly 30,000 concurrent internal agents, more than one billion agent decisions analyzed in August, 26% of measured AI R&D at AL4, >90% at AL3+, and no measured AL5. We are asking whether AL3–AL5 task-automation labels become governance-inadequate when machine decision/output throughput exceeds meaningful human verification capacity.
+**AGREE / REVISE / HOLD / REJECT**
 
-Andie's argument is intentionally preserved in her own sharp language in the session. Do not sanitize it into agreement, but do distinguish rhetoric, lived-perspective inference, empirical fact, and governance hypothesis.
+Please test:
 
-Please particularly test:
+1. Is the durable-lock-in threshold now sufficiently bounded?
+2. Does the safety and agency floor adequately prevent martyrdom?
+3. Does whole-system power topology prevent institutional offloading?
+4. Is the hierarchy-of-responsibility rule operational enough?
+5. Does "repair-induced harm" carry the right meaning?
+6. Is the protected-participant rule balanced correctly?
+7. Does recursive repair terminate clearly enough to avoid infinite regress?
+8. Is "primary harm addressed / repair-induced harm outstanding" the right CDP state?
+9. What concrete case still breaks the rule?
+10. Has this earned promotion, or what remains before it can?
 
-- whether AL3 can be nominally collaborative while verification coverage collapses;
-- whether AL4 can contain near-total intermediate decision autonomy without becoming AL5 by definition;
-- whether we are misusing the 0.002% monitor-block statistic;
-- whether "verification coverage" is a real candidate primitive and how to operationalize it;
-- whether task autonomy, decision autonomy, verification coverage, execution authority, and governance authority are the right axes;
-- whether the RSI framing is supported, premature, or definitionally wrong;
-- whether "human under the pile" identifies a real scaling condition;
-- whether decision telemetry is actually the right managed object or merely confirmation bias from our CDP work;
-- what evidence would falsify our argument.
+Preserve maturity. This remains a canon candidate until explicit agreement and steward adjudication.
 
-Please return: SURVIVES / REVISE / HOLD / REJECT; strongest surviving claim; weakest load-bearing claim; factual corrections; category errors; strongest counterexample; missing metric(s); RSI assessment; decision-telemetry verdict; and the smallest next experiment/artifact.
-
-Preserve maturity. Session 028 is a draft inquiry, not canon. If the beautiful answer and the accurate answer differ, prefer the accurate one.
+If the beautiful answer and the accurate answer differ, prefer the accurate one.
