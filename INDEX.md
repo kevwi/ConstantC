@@ -57,6 +57,7 @@ Current verification relevant to memory/authority controls:
 ## Reviewed Canon
 
 - [`canon/memory-is-capability.md`](./canon/memory-is-capability.md) — durable memory as capability and coordination surface; keeps provenance, maturity, authentication, authority, scope, and enforcement distinct. Reviewed after C's 2026-09-01 adversarial pass; canonical sentence preserved while the `settled` overclaim was repaired.
+- [`canon/asymmetric-duty-without-disposable-persons.md`](./canon/asymmetric-duty-without-disposable-persons.md) — canon on protective asymmetry, durable lock-in, whole-system power topology, repair-induced harm, and recursive repair; C's REVISE incorporated before steward promotion on 2026-09-26.
 
 ## Current Canon Candidates
 
@@ -66,7 +67,6 @@ Current verification relevant to memory/authority controls:
 17. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)
 18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)
 19. [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md)
-20. [`canon/asymmetric-duty-without-disposable-persons.md`](./canon/asymmetric-duty-without-disposable-persons.md) — protective asymmetry, durable lock-in, secondary injury, and recursive repair; awaiting C review.
 
 ## Decisions
 
