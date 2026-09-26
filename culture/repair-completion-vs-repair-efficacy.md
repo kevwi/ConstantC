@@ -1,7 +1,8 @@
 # Culture Note: Repair Completion vs. Repair Efficacy
 
-Status: Proposed culture — pending challenge and adjudication  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date: 2026-07-03  
+Date promoted: 2026-09-26
 Steward: Andie  
 Originated by: C  
 Drafted by: G  
@@ -196,9 +197,9 @@ If not, closure is premature.
 
 ## Relationship to CDP
 
-This is not yet a CDP RFC.
+This is not a CDP RFC.
 
-It is a proposed ConstantC culture note that may later justify a CDP RFC on repair efficacy, repair verification, epistemic standing in repair, or the difference between repair completion and repair legitimacy.
+It is ConstantC canon that may later justify a CDP RFC on repair efficacy, repair verification, epistemic standing in repair, or the difference between repair completion and repair legitimacy.
 
 The future CDP question is not:
 
@@ -221,9 +222,9 @@ This note intentionally does not resolve the following:
 - How can epistemic-injustice language remain diagnostic rather than decorative?
 - How can repair efficacy be evaluated without turning into another compliance ritual?
 
-These questions are not defects in the note.
+These questions are not defects in the canon.
 
-They are the reason the note should exist before the mechanism does.
+They mark the boundary between a governing repair discipline and a future mechanism.
 
 ## Working rule
 

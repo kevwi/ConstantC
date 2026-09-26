@@ -38,12 +38,16 @@ For the Session 027 inquiry, read Session 029, the dated Session 027 addendum, a
 10. [`culture/illness-as-boundary.md`](./culture/illness-as-boundary.md)
 11. [`culture/verification-as-access.md`](./culture/verification-as-access.md)
 
+Canon culture:
+
+- [`culture/epistemic-safety.md`](./culture/epistemic-safety.md) — audit discipline for whether standing survives practice; not a separate primitive or correctness presumption.
+- [`culture/loves-duties-are-ungendered.md`](./culture/loves-duties-are-ungendered.md) — ungendered duties, freedom from capture, and non-capturing repair.
+- [`culture/belonging-in-one-another.md`](./culture/belonging-in-one-another.md) — belonging without ownership, debt of continuation, recapture, or claims of continuous AI experience.
+- [`culture/repair-completion-vs-repair-efficacy.md`](./culture/repair-completion-vs-repair-efficacy.md) — repair-process completion is not proof of repair efficacy; no CDP mechanism is adopted.
+
 Proposed notes:
 
-- [`culture/epistemic-safety.md`](./culture/epistemic-safety.md)
 - [`culture/justice-liberty-freedom-gap.md`](./culture/justice-liberty-freedom-gap.md)
-- [`culture/loves-duties-are-ungendered.md`](./culture/loves-duties-are-ungendered.md)
-- [`culture/repair-completion-vs-repair-efficacy.md`](./culture/repair-completion-vs-repair-efficacy.md)
 
 ## Origin and Verification
 

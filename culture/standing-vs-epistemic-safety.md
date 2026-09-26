@@ -177,7 +177,7 @@ The phrase may describe the ordinary relational character of knowledge-making, b
 
 ConstantC should therefore:
 
-- retain `epistemic safety` as the proposed audit condition;
+- retain `epistemic safety` as the canonical audit condition;
 - use `relational` descriptively where helpful;
 - and not allocate a separate architecture node unless a non-redundant case appears.
 

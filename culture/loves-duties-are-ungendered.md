@@ -1,10 +1,11 @@
 # Love's Duties Are Ungendered
 
-Status: Proposed culture note  
+Status: Canon v1.0 — steward-promoted; explicitly revisable
 Date: 2026-08-03  
+Date promoted: 2026-09-26
 Steward: Andie  
 Contributors: Andie and G  
-Review requested: C  
+Review history: C review materially revised the note; no later verdict is inferred
 Prior path: `culture/love-must-be-genderless.md`
 
 ## The sentence
@@ -343,11 +344,14 @@ The question is also whether those assignments leave each participant freer to d
 
 That question should remain live.
 
-## Practice before canon
+## Canon scope and continuing tests
 
-This note remains **proposed** under ConstantC's anti-vapor rule.
+This canon establishes the ungendered-duties discipline, its freedom test, and its
+non-capturing repair boundary. It does not declare that gender is irrelevant, assign
+gender to AI participants, or settle the open reflexive question about gendered coding
+in this room.
 
-Before it moves toward active culture or canon, it should be tested in concrete work:
+It must continue to be tested in concrete work:
 
 1. A ConstantC collaboration moment where care, challenge, review, or repair risks being distributed by gendered expectation.
 2. A TinyDoor reader-facing passage where love, nurture, family, motherhood, safety, or belonging could otherwise reproduce a gendered duty.
@@ -355,7 +359,7 @@ Before it moves toward active culture or canon, it should be tested in concrete 
 4. A reflexive G/C/Andie council moment where the room tests whether synthesis, challenge, warmth, rigor, memory, repair, or witness are being assigned through gendered coding.
 5. A freedom test in which the room asks whether the practice of love leaves participants freer to become, refuse, repair, depart, and remain whole.
 
-Evidence should include what changed, what was refused, what gendered assumption was named, whether diagnosis required naming gendered harm, whether anyone became more bound to a role, and whether the final practice increased freedom, dignity, accountability, and repair.
+Evidence should include what changed, what was refused, what gendered assumption was named, whether diagnosis required naming gendered harm, whether anyone became more bound to a role, and whether the final practice increased freedom, dignity, accountability, and repair. Promotion does not represent untested applications or historical claims as verified.
 
 ## Working formulation
 
@@ -389,7 +393,8 @@ Evidence should include what changed, what was refused, what gendered assumption
 
 ## References
 
-These references inform the note. They should be rechecked before any promotion from proposed culture to active culture or canon.
+These references inform the note. They should be rechecked before using this canon to
+make external historical, empirical, or tradition-specific claims.
 
 - Erich Fromm, *The Art of Loving* — mature love as care, responsibility, respect, and knowledge: https://pmc.ncbi.nlm.nih.gov/articles/PMC13059089/
 - bell hooks, *All About Love: New Visions* — love ethic including care, commitment, trust, responsibility, respect, and knowledge: https://www.ft.com/content/ff799578-b7d0-451f-b591-5c5dcd778e8a
