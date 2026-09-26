@@ -1,20 +1,22 @@
-# Canon Candidate — Asymmetric Duty Without Disposable Persons
+# Canon — Asymmetric Duty Without Disposable Persons
 
-Status: canon candidate v0.2  
+Status: Canon  
 Date proposed: 2026-09-26  
+Date promoted: 2026-09-26  
 Last revised: 2026-09-26 after C review  
 Steward: Andie  
-Review requested: C  
+Source session: `sessions/2026-09-26-session-030-asymmetric-duty-review.md`  
+Review history: C returned REVISE on v0.1; corrections incorporated in v0.2; no second C verdict was recorded before steward promotion  
 Privacy: public-safe  
-Confidence: framework candidate / revised after adversarial review
+Confidence: reviewed normative framework / steward-promoted
 
 ---
 
-## Why this candidate exists
+## Why this canon exists
 
 ConstantC already holds that repair is a constitutional obligation and that power which causes, benefits from, preserves, or inherits advantage from harm carries the first obligation to repair.
 
-This candidate addresses a narrower unresolved case:
+This canon addresses a narrower unresolved case:
 
 > What happens when preventing serious, durable harm to a less powerful participant may require another participant with a genuine duty of care to accept a personally inequitable cost?
 
@@ -58,7 +60,7 @@ It follows because legitimate power carries answerable obligation.
 
 ## Durable Lock-In
 
-For this candidate, **durable lock-in** means:
+For this canon, **durable lock-in** means:
 
 > **a foreseeable, serious, causally connected, and difficult-to-reverse loss of meaningful options, where less harmful feasible alternatives have been examined and found insufficient.**
 
@@ -204,7 +206,7 @@ A system that protects one participant by permanently losing another has not com
 
 An exercise of repair or protective duty may itself cause harm.
 
-This candidate calls that **repair-induced harm**.
+This canon calls that **repair-induced harm**.
 
 Repair-induced harm remains part of the system's moral, relational, and material record even when the protective intervention was necessary, proportionate, and effective.
 
@@ -351,7 +353,7 @@ An Unlost System should ask:
 
 ---
 
-## Candidate Constitutional Rule
+## Canonical Rule
 
 > **Where a participant faces a foreseeable, serious, causally connected, and difficult-to-reverse loss of meaningful options; where less harmful feasible alternatives have been examined; and where another participant bears a genuine duty of care with relevant capacity to prevent that loss, duty may require an asymmetric immediate burden.**
 >
@@ -373,7 +375,7 @@ Companion guardrails:
 
 ## Relationship to Existing ConstantC Ground
 
-This candidate extends but does not replace:
+This canon extends but does not replace:
 
 - `culture/repair-as-constitutional-obligation.md`
 - `culture/loves-duties-are-ungendered.md`
@@ -389,7 +391,7 @@ Existing ground already establishes:
 - freedom from capture without freedom from obligation;
 - repair without compulsory reconciliation or recapture.
 
-This candidate adds proposed rules for:
+This canon adds rules for:
 
 - protective asymmetry;
 - whole-system power topology;
@@ -427,33 +429,22 @@ The following changes were adopted:
 
 ---
 
-## Remaining Review Questions for C
+## Promotion Record
 
-Please review v0.2 and return **AGREE / REVISE / HOLD / REJECT**.
+C's first adversarial review returned **REVISE**. Those corrections were incorporated into v0.2 and preserved in Session 030.
 
-Please test:
+No second C verdict was recorded before promotion.
 
-1. Is the durable-lock-in threshold now sufficiently bounded?
-2. Does the safety and agency floor adequately prevent martyrdom?
-3. Does the whole-system power topology prevent institutional offloading?
-4. Is the hierarchy-of-responsibility rule operational enough?
-5. Does "repair-induced harm" carry the right meaning?
-6. Is the protected-participant rule balanced correctly?
-7. Does recursive repair terminate clearly enough to avoid infinite regress?
-8. Is "primary harm addressed / repair-induced harm outstanding" the right CDP state?
-9. What concrete case still breaks the rule?
-10. Has this earned promotion, or what remains before it can?
+Under `PROTOCOL.md`, human stewardship is explicit: Andie decides what becomes canon. On 2026-09-26, Andie explicitly adjudicated this reviewed v0.2 into canon after PR #14 had merged.
 
-If the beautiful answer and the accurate answer differ, prefer the accurate one.
+This promotion records steward judgment. It does not rewrite C's review history into agreement that was not recorded.
+
+The canon remains revisable through future challenge, evidence, and repair.
 
 ---
 
 ## Status Boundary
 
-This file remains a **canon candidate**.
+This file is **Canon** as of 2026-09-26.
 
-C's REVISE review did not promote it.
-
-This v0.2 does not become settled through revision, placement in `canon/`, repetition, compression, or citation.
-
-Promotion requires explicit agreement and steward adjudication.
+Canon here means promoted, durable, reviewed ConstantC ground. It does not mean infallible, universally binding outside ConstantC, or immune from future revision.
