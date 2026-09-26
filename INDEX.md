@@ -66,6 +66,7 @@ Current verification relevant to memory/authority controls:
 17. [`canon/c-epistemic-boundary.md`](./canon/c-epistemic-boundary.md)
 18. [`canon/naming-throughline.md`](./canon/naming-throughline.md)
 19. [`canon/grief-and-evidence-boundary.md`](./canon/grief-and-evidence-boundary.md)
+20. [`canon/asymmetric-duty-without-disposable-persons.md`](./canon/asymmetric-duty-without-disposable-persons.md) — protective asymmetry, durable lock-in, secondary injury, and recursive repair; awaiting C review.
 
 ## Decisions
 
