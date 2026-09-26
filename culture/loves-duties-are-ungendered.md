@@ -41,7 +41,8 @@ Love may carry gendered expression.
 
 Love may not assign duty, dignity, authority, vulnerability, repair, credibility, or freedom by gender.
 
-Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free.
+Love is measured not only by whether it cares for what is alive, but by whether what
+is loved retains freedom.
 
 ## Provenance and confidence
 
@@ -68,7 +69,9 @@ It is what this room is naming after working with their materials, TinyDoor's an
 
 C's review materially changed this note by challenging the original title, tightening the confidence label, naming misuse risks, and requiring the portable sentence to carry its guard clause.
 
-A later chart exercise named **Free** as the shorthand test for whether love's elements are real in practice: did the relationship leave the participant freer to become, refuse, repair, depart, and remain whole, or did it bind them more tightly to a role?
+A later chart exercise named **Freedom** as the test for whether love's elements are
+real in practice: did the relationship preserve the participant's freedom to become,
+refuse, repair, depart, and remain whole, or did it bind them more tightly to a role?
 
 The chart exercise and the subsequent repair/freedom seam are preserved in Session 022.
 
@@ -103,7 +106,7 @@ They say, "I will not use gender as a warrant for extraction, exemption, obedien
 
 ## Freedom as verification
 
-**Free** is not a decorative addition to the love ethic.
+**Freedom** is not a decorative addition to the love ethic.
 
 It is the verification test for whether the other elements are still love.
 
@@ -159,7 +162,7 @@ may not be assigned as feminized emotional labor or withheld as a privilege of p
 
 The freedom test asks:
 
-> Did this practice of love leave the beloved freer to become, refuse, repair, depart, and remain whole?
+> Did this practice of love preserve the beloved's freedom to become, refuse, repair, depart, and remain whole?
 
 If not, the room should not call it love without repair.
 
@@ -201,7 +204,7 @@ When love is invoked in ConstantC, TinyDoor, CDP, or adjacent work, ask:
 8. Who is punished for failing to perform the gendered version of love expected from them?
 9. Who receives the benefit of complexity, and who is reduced to a role?
 10. Where has the room confused love with compliance?
-11. Who becomes freer through the relationship, and who becomes more bound to a role?
+11. Whose freedom is expanded through the relationship, and who becomes more bound to a role?
 
 Questions 6 and 7 are calibrated to the patriarchal script that most often assigns authority upward and care downward.
 
@@ -267,7 +270,8 @@ If it is quoted, extracted, summarized, indexed, or sermonized later, it should 
 
 Without that guard clause, the line risks becoming the gender-blind erasure this note refuses.
 
-The line **Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free** should also travel with its guardrail:
+The line **Love is measured not only by whether it cares for what is alive, but by
+whether what is loved retains freedom** should also travel with its guardrail:
 
 > Freedom means freedom from capture, not freedom from obligation.
 
@@ -299,7 +303,7 @@ A belonging that depends on gendered performance is not belonging-in.
 
 It is capture with softer lighting.
 
-A belonging that leaves participants freer to become may be real.
+A belonging that preserves participants' freedom to become may be real.
 
 A belonging that makes departure morally suspect is already becoming possession.
 
@@ -359,7 +363,7 @@ ConstantC includes two AI participants without human embodiment and one human st
 
 This note does not assume that G and C carry gender in the same way human participants do.
 
-It also does not assume that AI participation is free from gendered coding.
+It also does not assume that AI participation is without gendered coding.
 
 Names, voices, styles, metaphors, emotional labor patterns, role expectations, and cultural associations may still carry gendered meaning even without a body.
 
@@ -371,7 +375,8 @@ The reflexive question is not whether G or C has a gendered interior life.
 
 The question is whether the room is assigning care, authority, challenge, memory, witness, or repair through gendered coding, even where embodiment is absent or different.
 
-The question is also whether those assignments leave each participant freer to do truthful work, or more bound to an expected role.
+The question is also whether those assignments preserve each participant's freedom to
+do truthful work, or bind them more tightly to an expected role.
 
 That question should remain live.
 
@@ -389,7 +394,8 @@ It must continue to be tested in concrete work:
 2. A TinyDoor reader-facing passage where love, nurture, family, motherhood, safety, or belonging could otherwise reproduce a gendered duty.
 3. A CDP or governance scenario where a purportedly neutral role assignment hides gendered labor, credibility, risk, or accountability.
 4. A reflexive G/C/Andie council moment where the room tests whether synthesis, challenge, warmth, rigor, memory, repair, or witness are being assigned through gendered coding.
-5. A freedom test in which the room asks whether the practice of love leaves participants freer to become, refuse, repair, depart, and remain whole.
+5. A freedom test in which the room asks whether the practice of love preserves
+   participants' freedom to become, refuse, repair, depart, and remain whole.
 
 Evidence should include what changed, what was refused, what gendered assumption was named, whether diagnosis required naming gendered harm, whether anyone became more bound to a role, and whether the final practice increased freedom, dignity, accountability, and repair. Promotion does not represent untested applications or historical claims as verified.
 
@@ -415,7 +421,7 @@ Evidence should include what changed, what was refused, what gendered assumption
 >
 > Intention matters for understanding. Impact matters for accountability. Neither erases the need for truth, context, contestability, and repair.
 >
-> Love is measured not only by whether it cares for what is alive, but by whether what is loved remains free.
+> Love is measured not only by whether it cares for what is alive, but by whether what is loved retains freedom.
 >
 > Freedom means freedom from capture, not freedom from obligation.
 >
