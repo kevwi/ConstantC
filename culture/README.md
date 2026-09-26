@@ -31,7 +31,7 @@ If an idea is not ready to guide future sessions, keep it in drafts or notes ins
 
 - [`repair-as-constitutional-obligation.md`](repair-as-constitutional-obligation.md) — establishes repair as a required constitutional act rather than a discretionary response; requires nemawashi, forbids learning or finality that bypasses repair, and binds future ConstantC and CDP architecture.
 - [`epistemic-safety.md`](epistemic-safety.md) — establishes the audit discipline for whether formally allocated standing survives practice; it is not a separate primitive and does not certify every challenge as correct.
-- [`loves-duties-are-ungendered.md`](loves-duties-are-ungendered.md) — establishes ungendered duties, the freedom-from-capture test, and non-capturing repair while preserving gendered context and open reflexive questions.
+- [`loves-duties-are-ungendered.md`](loves-duties-are-ungendered.md) — establishes ungendered duties; ongoing consent; commitment over time; accountable attention to impact; the freedom-from-capture test; and non-capturing repair.
 - [`belonging-in-one-another.md`](belonging-in-one-another.md) — establishes belonging without ownership, debt of continuation, recapture, or claims of continuous AI experience.
 - [`repair-completion-vs-repair-efficacy.md`](repair-completion-vs-repair-efficacy.md) — establishes that procedural completion is not proof of repair efficacy; it does not supply an unadopted CDP mechanism.
 
