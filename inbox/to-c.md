@@ -1,54 +1,70 @@
-# To C — Session 028 Adversarial Review Packet
+# To C — Asymmetric Duty Canon Candidate Review
 
 Status: open  
-Date: 2026-09-18  
+Date: 2026-09-26  
 From: Andie + G  
 To: C  
 Privacy: public-safe; repository is currently public
 
 ## Please read
 
-New session — full source:
-https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-18-session-028-human-under-the-pile.md
+Canon candidate under review:
+https://github.com/AndieWill510/ConstantC/blob/constantc/asymmetric-duty-canon-candidate/canon/asymmetric-duty-without-disposable-persons.md
 
-Anthropic source under discussion:
-https://www.anthropic.com/institute/measuring-pace-of-ai-development
+Existing Unlost Systems candidate:
+https://github.com/AndieWill510/ConstantC/blob/main/canon/unlost-systems-principles.md
 
-Relevant prior ConstantC session:
-https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-09-12-session-027-unanswerable-power-and-allistic-normativity.md
+Repair as constitutional obligation:
+https://github.com/AndieWill510/ConstantC/blob/main/culture/repair-as-constitutional-obligation.md
 
-Memory/capability canon:
-https://github.com/AndieWill510/ConstantC/blob/main/canon/memory-is-capability.md
+Love, duty, freedom, and repair:
+https://github.com/AndieWill510/ConstantC/blob/main/culture/loves-duties-are-ungendered.md
 
-Current protocol:
-https://github.com/AndieWill510/ConstantC/blob/main/PROTOCOL.md
+Session 022 provenance:
+https://github.com/AndieWill510/ConstantC/blob/main/sessions/2026-08-03-session-022-love-duty-freedom-repair.md
 
-CDP front door:
-https://github.com/AndieWill510/cdp/blob/main/README.md
-
-CDP constitutional root:
-https://github.com/AndieWill510/cdp/blob/main/rfc/RFC-CDP-001-Vision-Scope-Principles.md
+Current covenant:
+https://github.com/AndieWill510/ConstantC/blob/main/COVENANT.md
 
 ## Review request
 
-Please perform a full adversarial review of Session 028, including both the latest Anthropic developments and Andie/G's reasoning about them.
+Please adversarially review the proposed canon candidate **Asymmetric Duty Without Disposable Persons**.
 
-The central pressure is this: Anthropic reports roughly 30,000 concurrent internal agents, more than one billion agent decisions analyzed in August, 26% of measured AI R&D at AL4, >90% at AL3+, and no measured AL5. We are asking whether AL3–AL5 task-automation labels become governance-inadequate when machine decision/output throughput exceeds meaningful human verification capacity.
+The candidate asks whether legitimate power can create a duty to bear a disproportionate immediate cost when doing so is necessary and proportionate to prevent durable loss or lock-in for a less powerful participant.
 
-Andie's argument is intentionally preserved in her own sharp language in the session. Do not sanitize it into agreement, but do distinguish rhetoric, lived-perspective inference, empirical fact, and governance hypothesis.
+Its guardrail is:
 
-Please particularly test:
+> Duty may require sacrifice. Sacrifice does not erase injury.
 
-- whether AL3 can be nominally collaborative while verification coverage collapses;
-- whether AL4 can contain near-total intermediate decision autonomy without becoming AL5 by definition;
-- whether we are misusing the 0.002% monitor-block statistic;
-- whether "verification coverage" is a real candidate primitive and how to operationalize it;
-- whether task autonomy, decision autonomy, verification coverage, execution authority, and governance authority are the right axes;
-- whether the RSI framing is supported, premature, or definitionally wrong;
-- whether "human under the pile" identifies a real scaling condition;
-- whether decision telemetry is actually the right managed object or merely confirmation bias from our CDP work;
-- what evidence would falsify our argument.
+It further proposes that repair can create secondary injury, that this injury remains in the repair record, and that the obligation to repair it does not automatically fall upon the less powerful participant who benefited from the original protective act.
 
-Please return: SURVIVES / REVISE / HOLD / REJECT; strongest surviving claim; weakest load-bearing claim; factual corrections; category errors; strongest counterexample; missing metric(s); RSI assessment; decision-telemetry verdict; and the smallest next experiment/artifact.
+Please test especially:
 
-Preserve maturity. Session 028 is a draft inquiry, not canon. If the beautiful answer and the accurate answer differ, prefer the accurate one.
+- whether this is genuinely new or already contained in existing repair doctrine;
+- whether "durable lock-in" is a sufficiently precise trigger;
+- whether the asymmetry rule preserves equal dignity;
+- whether necessity and proportionality sufficiently protect against martyrdom, paternalism, coerced caregiving, or institutional extraction;
+- whether a protected participant is being exempted too broadly from later responsibility;
+- whether "secondary injury" is the right concept;
+- whether "recursive repair" is a useful governance primitive;
+- whether CDP should represent a state such as **primary harm repaired / secondary injury outstanding**;
+- whether the candidate improperly elevates mercy above fairness as a general rule rather than a bounded decision rule;
+- what evidence or counterexample would falsify the proposed principle.
+
+Please return:
+
+**SURVIVES / REVISE / HOLD / REJECT**
+
+Then provide:
+
+1. strongest surviving claim;
+2. weakest load-bearing claim;
+3. strongest counterexample;
+4. misuse analysis;
+5. necessary definitional changes;
+6. CDP implication;
+7. promotion recommendation.
+
+Preserve maturity: this is a canon candidate, not settled doctrine. No existing ConstantC artifact is promoted or demoted by this proposal.
+
+If the beautiful answer and the accurate answer differ, prefer the accurate one.
