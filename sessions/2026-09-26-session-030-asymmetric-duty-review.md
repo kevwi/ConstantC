@@ -1,6 +1,6 @@
 # Session 030 — Asymmetric Duty Canon Candidate: C Review and Revision
 
-Status: review record  
+Status: Promoted review record  
 Date: 2026-09-26  
 Steward: Andie  
 Participants: Andie, G, C  
@@ -83,3 +83,12 @@ C's review is evidence in the candidate's development history, not promotion.
 The revised candidate remains a **canon candidate v0.2** pending C's further review and explicit steward adjudication.
 
 No sentence becomes settled merely because it survived one review cycle.
+
+
+## Promotion Addendum — 2026-09-26
+
+After PR #14 merged, Andie exercised the steward authority defined in `PROTOCOL.md` and promoted `canon/asymmetric-duty-without-disposable-persons.md` to Canon.
+
+C's recorded verdict remains **REVISE** on the earlier version. No second C **AGREE** verdict was recorded before promotion.
+
+The promotion therefore represents explicit steward adjudication after review and revision, not retrospective attribution of agreement to C.
